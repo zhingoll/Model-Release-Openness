@@ -1,5 +1,8 @@
 # Model Release Openness: Structured Data and Analysis
 
+This repository accompanies "Beyond Open Weights: Measuring Artifact-Level
+Reuse Support in High-Attention Public Model Releases."
+
 This package contains the structured data used to analyze resource completeness
 and licensing freedom in 845 model releases, together with the independent
 Human86 test set. The analysis uses retained judgments to reproduce resource
@@ -58,7 +61,10 @@ and MRBOM schema and example are in `method/`.
 
 ## Scope
 
-The formal sample contains 845 releases. Human86 contains 86 releases and
+The formal sample contains 845 officially associated Hugging Face releases
+selected from weekly top-100 lists of like-count increments observed from
+3 March 2025 to 9 March 2026, after de-duplication and eligibility screening.
+Human86 contains 86 releases and
 22 fields per release, giving 1,892 comparisons with independent expert
 reference labels. The constant-prediction baseline and the two anonymized
 rater label sets support the accompanying validation analyses.
