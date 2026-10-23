@@ -100,6 +100,9 @@ that type. A release may be counted under several condition types.
 `strict_separate_osi` is the separate-OSI sensitivity rule,
 `explicit_full_text_primary` is the primary full-text scope analysis, and
 `repository_default_lenient` is the repository-default sensitivity rule.
+`separate_osi_code_qualified` records whether the code passes the separate,
+release-bound OSI license check. The separate-OSI rule retains the primary
+model and data judgments; only the code check changes.
 
 ## Audits and Sensitivity Analyses
 

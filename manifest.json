@@ -1,6 +1,6 @@
 {
   "ANNOTATION.md": "ae44d894a42355ada943ed511be866103fbe18caf4575af6f70d3aa9eb04e6ee",
-  "DATA_DICTIONARY.md": "cfae169642e413a66059e10f91a9ba5fe3447f1e23351ff060ce0c48687105a2",
+  "DATA_DICTIONARY.md": "7eedd1a4260aef68eaa6e2b997837e6826950cf5adfcc06d9a4e272b5d67a06a",
   "EVIDENCE.md": "c24de86cf2eb88deafb87656ea3623c83281857a6ec14e3858e168b7a02ca4b1",
   "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
   "LICENSING.md": "91e13b34b3f3daac8be70c4093f6dc08b2d11816e9c065eba105cae45c6cccab",
@@ -22,7 +22,7 @@
   "data/license_dimensions.csv": "e8d76992c24f396a3f0d184f682cec67b7efd769b46f5d05ff0f7d6e4076a59e",
   "data/license_packages.csv": "eb493208544000d67b0fd23015cd346ec500126243a225488129095110a654e1",
   "data/license_profiles.csv": "9976e6061a87a39eb66a4794052f4956c10db736eeb0654a7060e31785fb7200",
-  "data/license_three_rules.csv": "992df74f6279c5a8b183fbfa58d591893959dc399f7397bcef81791d5de73772",
+  "data/license_three_rules.csv": "e1e22ad46e8630d99f5cc562bca8c32dd3d5a4cab14cb0cfff47af1e37f92398",
   "data/release_versions.csv": "fd70e4a3aa71d66791367272ec9861e2cb72a3556c77cecf3951877c9c1195d6",
   "data/releases.csv": "873fc6e8b6ea67b92078bca710dffedc5fb6727ffc1ff411b63063d6922534bc",
   "data/resource_fields.csv": "0161cb8ca98012faf01d4763f7f34e33c88c8d9927dfa753f3b2a99a773556e6",
@@ -50,6 +50,6 @@
   "method/prompts/upgrade_decision_critic_schema.py": "90a8a4a9cd56dac14174fd6a9db14453ea2aa0a05abb93ac83cd320b74ed5489",
   "method/resource_rules.csv": "8bee979d473cda4c336522fb76cc0c486b16bbfa8897bb95af7c3453e779c7e6",
   "render_figures.py": "51d6905c69ae546c23c4f70cf7bb70a9d707178a0c67373dc86af271ac1838e0",
-  "reproduce.py": "325e036b5e57cbf5abdea66ea162030107cf48e1a9c1fe2e5a5807b12e204e4b",
+  "reproduce.py": "e2d10f712062014d3692ae755c92e8b402f53d84ca899e2d965a77897dd4ee33",
   "requirements-figures.txt": "553dbdebd6073e6bbbe3d9a31c0508cdfcf3031f811ad220a91c12203aab768a"
 }

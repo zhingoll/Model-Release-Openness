@@ -252,6 +252,15 @@ def licensing_analysis(data, releases, output):
     save_csv(output / 'license_dimensions_summary.csv', dimension_rows)
     rules = keyed(read(data / 'license_three_rules.csv'), 'model_id')
     require(set(rules) == set(releases), "Three-rule membership mismatch")
+    for mid, rule in rules.items():
+        profile = profiles[mid]
+        gate = rule['separate_osi_code_qualified']
+        require(gate in ('True', 'False'), "Invalid separate-OSI code judgment")
+        qualifies = (profile['scope_aware_model_license_qualified'] == 'True'
+                     and gate == 'True'
+                     and profile['scope_aware_data_license_qualified'] == 'True')
+        expected = profile['reviewed_term_category'] if qualifies else 'Not qualified'
+        require(rule['strict_separate_osi'] == expected, "Separate-OSI category mismatch: " + mid)
     rule_counts = {name: dict(Counter(r[name] for r in rules.values())) for name in
                   ('strict_separate_osi', 'explicit_full_text_primary', 'repository_default_lenient')}
     require(all(rules[mid]['explicit_full_text_primary'] == r['licensing_freedom_level'] for mid, r in releases.items()),
