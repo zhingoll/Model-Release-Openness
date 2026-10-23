@@ -1,0 +1,846 @@
+model_id,strict_level,licensing_freedom_level,model_license_candidate,model_license_qualified,code_license_qualified,data_license_qualified,story_org,country,analysis_region,org_type,task_category
+1Covenant/Covenant-72B,L2,O3,O3,True,True,True,1Covenant,United States of America,USA,company,Text/NLP
+ACE-Step/ACE-Step-v1-3.5B,L2,Not qualified,O3,True,True,False,ACE-Step,China,China,company,Speech/Audio
+ACE-Step/Ace-Step1.5,L3,Not qualified,O3,True,True,False,ACE-Step,China,China,company,Speech/Audio
+ACE-Step/acestep-captioner,L1,Not qualified,O3,True,True,False,ACE-Step,China,China,company,Speech/Audio
+ACE-Step/acestep-v15-base,L3,Not qualified,O3,True,True,False,ACE-Step,China,China,company,Speech/Audio
+ACE-Step/acestep-v15-sft,L2,Not qualified,O3,True,True,False,ACE-Step,China,China,company,Speech/Audio
+AIDC-AI/Ovis-Image-7B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+AIDC-AI/Ovis2.5-2B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+AIDC-AI/Ovis2.5-9B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+AIDC-AI/Ovis2.6-30B-A3B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Alibaba-Apsara/DASD-4B-Thinking,L2,O3,O3,True,True,True,Alibaba,China,China,company,Text/NLP
+Alibaba-DAMO-Academy/RynnEC-7B,L3,Not qualified,O3,True,False,False,Alibaba,China,China,company,Multimodal Chat
+Alibaba-NLP/Tongyi-DeepResearch-30B-A3B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Alibaba-NLP/WebSailor-3B,L2,Not qualified,O3,True,False,False,Alibaba,China,China,company,Text/NLP
+Alibaba-NLP/gte-Qwen2-7B-instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Embedding/Retrieval
+Alpha-VLLM/Lumina-DiMOO,L4,Not qualified,O3,True,True,False,Alpha-VLLM,China,China,company,Multimodal Chat
+Alpha-VLLM/Lumina-mGPT-2.0,L1,Not qualified,O3,True,True,False,Alpha-VLLM,China,China,company,Vision/Video/3D
+AngelSlim/HY-1.8B-2Bit,L2,Not qualified,O1,True,True,False,AngelSlim,China,China,company,Text/NLP
+Aratako/Irodori-TTS-500M,L1,Not qualified,O3,True,True,False,Aratako,Unknown,Unknown,user,Speech/Audio
+Arrexel/pattern-diffusion,L2,Not qualified,O3,True,True,False,Arrexel,Unknown,Unknown,user,Vision/Video/3D
+BAAI/Emu3.5,L2,Not qualified,O3,True,True,False,BAAI,China,China,non-profit,Multimodal Chat
+BAAI/Emu3.5-Image,L2,Not qualified,O3,True,True,False,BAAI,China,China,non-profit,Vision/Video/3D
+BAAI/Video-XL-2,L3,Not qualified,O3,True,True,False,BAAI,China,China,non-profit,Multimodal Chat
+BAAI/bge-m3,L4,O3,O3,True,True,True,BAAI,China,China,non-profit,Embedding/Retrieval
+BAAI/bge-reranker-v2-m3,L2,Not qualified,O3,True,True,False,BAAI,China,China,non-profit,Text/NLP
+ByteDance-Seed/Seed-Coder-8B-Base,L2,Not qualified,O3,True,True,False,ByteDance,China,China,company,Text/NLP
+ByteDance-Seed/Seed-Coder-8B-Instruct,L2,Not qualified,O3,True,True,False,ByteDance,China,China,company,Text/NLP
+ByteDance-Seed/Seed-Coder-8B-Reasoning,L2,Not qualified,O3,True,True,False,ByteDance,China,China,company,Text/NLP
+ByteDance-Seed/Seed-OSS-36B-Instruct,L2,Not qualified,O3,True,True,False,ByteDance,China,China,company,Text/NLP
+ByteDance-Seed/Seed-X-Instruct-7B,L2,O3,O3,True,True,True,ByteDance,China,China,company,Text/NLP
+ByteDance-Seed/Seed-X-PPO-7B,L2,O3,O3,True,True,True,ByteDance,China,China,company,Text/NLP
+ByteDance-Seed/Stable-DiffCoder-8B-Instruct,L2,Not qualified,O3,True,True,False,ByteDance,China,China,company,Text/NLP
+ByteDance-Seed/UI-TARS-1.5-7B,L2,Not qualified,O3,True,True,False,ByteDance,China,China,company,Multimodal Chat
+ByteDance/BindWeave,L0,Not qualified,O3,True,True,False,ByteDance,China,China,company,Vision/Video/3D
+ByteDance/Dolphin,L2,Not qualified,O3,True,True,False,ByteDance,China,China,company,Multimodal Chat
+ByteDance/Dolphin-v2,L2,Not qualified,O1,True,True,False,ByteDance,China,China,company,Multimodal Chat
+ByteDance/MegaTTS3,L2,Not qualified,O3,True,True,False,ByteDance,China,China,company,Speech/Audio
+ByteDance/Ouro-1.4B,L2,Not qualified,O3,True,True,False,ByteDance,China,China,company,Text/NLP
+ByteDance/Ouro-2.6B,L1,Not qualified,O3,True,True,False,ByteDance,China,China,company,Text/NLP
+ByteDance/Ouro-2.6B-Thinking,L1,Not qualified,O3,True,True,False,ByteDance,China,China,company,Text/NLP
+CAMB-AI/MARS5-TTS,L2,Not qualified,O2,True,True,False,CAMB-AI,United Arab Emirates,Other Asia,company,Speech/Audio
+CohereLabs/command-a-reasoning-08-2025,L2,Not qualified,O1,True,True,False,Cohere Labs,Canada,Other North America,community,Text/NLP
+CohereLabs/command-a-translate-08-2025,L2,Not qualified,O1,True,True,False,Cohere Labs,Canada,Other North America,community,Text/NLP
+CohereLabs/tiny-aya-global,L2,Not qualified,O1,True,True,False,Cohere Labs,Canada,Other North America,community,Text/NLP
+CompVis/stable-diffusion-v1-4,L4,Not qualified,O1,True,True,False,CompVis,Germany,Europe,university,Vision/Video/3D
+CypressYang/SongBloom,L1,Not qualified,O3,True,False,False,CypressYang,Unknown,Unknown,user,Speech/Audio
+Datadog/Toto-Open-Base-1.0,L2,O3,O3,True,True,True,Datadog,United States of America,USA,company,Other
+DatologyAI/luxical-one,L0,Not qualified,O3,True,True,False,DatologyAI,United States of America,USA,company,Embedding/Retrieval
+DiffSynth-Studio/Qwen-Image-i2L,L1,Not qualified,O3,True,False,False,DiffSynth-Studio,China,China,community,Vision/Video/3D
+Dream-org/Dream-v0-Instruct-7B,L2,Not qualified,O3,True,True,False,Dream Org,China,China,university,Text/NLP
+ETH-CVG/lightglue_disk,L2,Not qualified,O3,True,True,False,ETH Zurich - Computer Vision and Geometry Lab,Switzerland,Europe,university,Vision/Video/3D
+ElectricAlexis/NotaGen,L0,Not qualified,O3,True,True,False,ElectricAlexis,Unknown,Unknown,user,Text/NLP
+EssentialAI/rnj-1-instruct,L2,Not qualified,O3,True,True,False,Essential AI,United States of America,USA,company,Text/NLP
+Falconsai/nsfw_image_detection,L1,Not qualified,O3,True,True,False,Falcons.ai,United Arab Emirates,Other Asia,company,Vision/Video/3D
+Fastweb/FastwebMIIA-7B,L2,Not qualified,O1,True,True,False,Fastweb,Italy,Europe,company,Text/NLP
+FireRedTeam/FireRed-Image-Edit-1.0,L3,Not qualified,O3,True,True,False,FireRedTeam,China,China,company,Vision/Video/3D
+FireRedTeam/FireRed-Image-Edit-1.1,L3,Not qualified,O3,True,True,False,FireRedTeam,China,China,company,Vision/Video/3D
+FireRedTeam/FireRedTTS2,L1,Not qualified,O3,True,True,False,FireRedTeam,China,China,company,Speech/Audio
+FlashLabs/Chroma-4B,L2,Not qualified,O3,True,True,False,FlashLabs,United States of America,USA,company,Multimodal Chat
+FoundationVision/InfinityStar,L2,Not qualified,O3,True,True,False,FoundationVision,China,China,community,Vision/Video/3D
+Freepik/F-Lite,L1,Not qualified,O1,True,True,False,Freepik,Spain,Europe,company,Vision/Video/3D
+FunAudioLLM/Fun-ASR-Nano-2512,L4,Not qualified,O3,True,True,False,Alibaba,China,China,company,Speech/Audio
+FunAudioLLM/Fun-Audio-Chat-8B,L3,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+FunAudioLLM/Fun-CosyVoice3-0.5B-2512,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Speech/Audio
+FunAudioLLM/ThinkSound,L3,Not qualified,O1,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+GSAI-ML/LLaDA-8B-Base,L2,Not qualified,O3,True,True,False,GSAI-ML,China,China,university,Text/NLP
+GSAI-ML/LLaDA-8B-Instruct,L2,Not qualified,O3,True,True,False,GSAI-ML,China,China,university,Text/NLP
+Gen-Verse/MMaDA-8B-Base,L2,Not qualified,O3,True,True,False,Princeton-AI,United States of America,USA,university,Multimodal Chat
+HancomInSpaceAI/HiEmbed_base_onnx_v1,L1,Not qualified,O3,True,True,False,HancomInSpaceAI,South Korea,Other Asia,company,Embedding/Retrieval
+HeartMuLa/HeartMuLa-oss-3B,L2,Not qualified,O3,True,True,False,HeartMuLa,Unknown,Unknown,user,Speech/Audio
+HeartMuLa/HeartMuLaGen,L0,Not qualified,O3,True,True,False,HeartMuLa,Unknown,Unknown,user,Speech/Audio
+HelpingAI/Dhanishtha-nsfw,L1,O3,O3,True,True,True,HelpingAI,India,Other Asia,company,Text/NLP
+Helsinki-NLP/opus-mt-tc-big-tr-en,L2,Not qualified,O3,True,True,False,Language Technology Research Group at the University of Helsinki,Finland,Europe,university,Text/NLP
+HiDream-ai/HiDream-E1-1,L2,Not qualified,O3,True,True,False,HiDream.ai,China,China,company,Multimodal Chat
+HiDream-ai/HiDream-E1-Full,L2,Not qualified,O3,True,True,False,HiDream.ai,China,China,company,Multimodal Chat
+HiDream-ai/HiDream-I1-Dev,L2,Not qualified,O3,True,True,False,HiDream.ai,China,China,company,Vision/Video/3D
+HiDream-ai/HiDream-I1-Fast,L2,Not qualified,O3,True,True,False,HiDream.ai,China,China,company,Vision/Video/3D
+HiDream-ai/HiDream-I1-Full,L2,Not qualified,O3,True,True,False,HiDream.ai,China,China,company,Vision/Video/3D
+HuggingFaceTB/SmolLM3-3B,L4,Not qualified,O3,True,True,False,Hugging Face Smol Models Research,United States of America,USA,community,Text/NLP
+HuggingFaceTB/SmolLM3-3B-Base,L4,Not qualified,O3,True,True,False,Hugging Face Smol Models Research,United States of America,USA,community,Text/NLP
+HuggingFaceTB/SmolVLM2-2.2B-Instruct,L2,O3,O3,True,True,True,Hugging Face Smol Models Research,United States of America,USA,community,Multimodal Chat
+IQuestLab/IQuest-Coder-V1-40B-Instruct,L2,Not qualified,O3,True,True,False,IQuestLab,South Korea,Other Asia,company,Text/NLP
+IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct,L2,Not qualified,O3,True,True,False,IQuestLab,South Korea,Other Asia,company,Text/NLP
+IndexTeam/Index-TTS,L2,Not qualified,O3,True,False,False,Index Team,China,China,company,Speech/Audio
+IndexTeam/Index-anisora,L2,Not qualified,O3,True,True,False,Index Team,China,China,company,Vision/Video/3D
+IndexTeam/IndexTTS-2,L2,Not qualified,O1,True,True,False,Index Team,China,China,company,Speech/Audio
+Intelligent-Internet/II-Medical-8B,L2,O3,O3,True,True,True,II,United Kingdom,Europe,company,Text/NLP
+InternRobotics/F1-VLA,L1,Not qualified,O1,True,False,False,Intern Robotics,China,China,non-profit,Other
+Jamichsu/Stream-DiffVSR,L1,Not qualified,O3,True,True,False,Jamichsu,Unknown,Unknown,user,Vision/Video/3D
+JetBrains/Mellum-4b-base,L2,O3,O3,True,True,True,JetBrains,Czech Republic,Europe,company,Text/NLP
+JetBrains/Mellum-4b-sft-python,L2,O3,O3,True,True,True,JetBrains,Czech Republic,Europe,company,Text/NLP
+JunhaoZhuang/FlashVSR,L3,Not qualified,O3,True,True,False,JunhaoZhuang,Unknown,Unknown,user,Vision/Video/3D
+JunhaoZhuang/FlashVSR-v1.1,L3,Not qualified,O3,True,True,False,JunhaoZhuang,Unknown,Unknown,user,Vision/Video/3D
+KORMo-Team/KORMo-10B-base,L2,Not qualified,O3,True,True,False,KORMo-Team,South Korea,Other Asia,university,Text/NLP
+KORMo-Team/KORMo-10B-sft,L2,Not qualified,O3,True,True,False,KORMo-Team,South Korea,Other Asia,university,Text/NLP
+KangLiao/Puffin,L3,Not qualified,O1,True,True,False,KangLiao,Unknown,Unknown,user,Vision/Video/3D
+KittenML/kitten-tts-mini-0.8,L1,Not qualified,O3,True,True,False,Kitten ML,United States of America,USA,company,Speech/Audio
+KittenML/kitten-tts-nano-0.1,L1,Not qualified,O3,True,True,False,Kitten ML,United States of America,USA,company,Speech/Audio
+KlingTeam/SVG-T2I,L4,Not qualified,O3,True,True,False,KlingTeam,China,China,company,Vision/Video/3D
+Kr1sJ/iMontage,L2,Not qualified,O3,True,True,False,Kr1sJ,Unknown,Unknown,user,Vision/Video/3D
+Kwai-Keye/Keye-VL-1_5-8B,L2,Not qualified,O3,True,True,False,Kuaishou,China,China,company,Multimodal Chat
+Kwai-Klear/Klear-46B-A2.5B-Instruct,L2,Not qualified,O3,True,True,False,Kuaishou,China,China,company,Text/NLP
+Kwaipilot/KAT-Dev,L2,Not qualified,O3,True,True,False,Kuaishou,China,China,company,Text/NLP
+Kwaipilot/KAT-Dev-72B-Exp,L1,Not qualified,O3,True,True,False,Kuaishou,China,China,company,Text/NLP
+Kwaipilot/KAT-V1-40B,L1,Not qualified,O1,True,True,False,Kuaishou,China,China,company,Text/NLP
+LGAI-EXAONE/EXAONE-4.0-1.2B,L2,O1,O1,True,True,True,LG AI Research,South Korea,Other Asia,company,Text/NLP
+LGAI-EXAONE/EXAONE-4.0-32B,L2,O1,O1,True,True,True,LG AI Research,South Korea,Other Asia,company,Text/NLP
+LGAI-EXAONE/K-EXAONE-236B-A23B,L2,Not qualified,O1,True,True,False,LG AI Research,South Korea,Other Asia,company,Text/NLP
+Lightricks/LTX-2,L3,Not qualified,O1,True,True,False,Lightricks,United States of America,USA,company,Vision/Video/3D
+Lightricks/LTX-2.3,L3,Not qualified,O1,True,True,False,Lightricks,United States of America,USA,company,Vision/Video/3D
+Lightricks/LTX-Video,L2,O1,O1,True,True,True,Lightricks,United States of America,USA,company,Vision/Video/3D
+Linum-AI/linum-v2-360p,L2,Not qualified,O3,True,True,False,Linum-AI,United States of America,USA,company,Vision/Video/3D
+Linum-AI/linum-v2-720p,L2,Not qualified,O3,True,True,False,Linum-AI,United States of America,USA,company,Vision/Video/3D
+LiquidAI/LFM2-1.2B,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-1.2B-Extract,L1,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-1.2B-RAG,L1,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-1.2B-Tool,L1,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-2.6B,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-2.6B-Exp,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-2.6B-Transcript,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-24B-A2B,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-350M,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-350M-ENJP-MT,L1,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-700M,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-8B-A1B,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2-Audio-1.5B,L2,Not qualified,O1,True,False,False,Liquid AI,United States of America,USA,company,Speech/Audio
+LiquidAI/LFM2-VL-1.6B,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Multimodal Chat
+LiquidAI/LFM2-VL-3B,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Multimodal Chat
+LiquidAI/LFM2-VL-450M,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Multimodal Chat
+LiquidAI/LFM2.5-1.2B-Base,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2.5-1.2B-Instruct,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2.5-1.2B-JP,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2.5-1.2B-Thinking,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Text/NLP
+LiquidAI/LFM2.5-Audio-1.5B,L2,Not qualified,O1,True,False,False,Liquid AI,United States of America,USA,company,Speech/Audio
+LiquidAI/LFM2.5-VL-1.6B,L2,Not qualified,O1,True,True,False,Liquid AI,United States of America,USA,company,Multimodal Chat
+Logics-MLLM/Logics-Parsing,L3,Not qualified,O3,True,True,False,Logics-MLLM,China,China,community,Multimodal Chat
+MYZY-AI/Muyan-TTS,L4,Not qualified,O3,True,True,False,MYZY-AI,China,China,company,Speech/Audio
+Maincode/Maincoder-1B,L2,Not qualified,O3,True,True,False,Maincode,Australia,Oceania,company,Text/NLP
+Marvis-AI/marvis-tts-250m-v0.1,L1,O3,O3,True,True,True,MARVIS,Unknown,Unknown,community,Speech/Audio
+MeiGen-AI/InfiniteTalk,L1,Not qualified,O3,True,True,False,MeiGen-AI,China,China,community,Vision/Video/3D
+MeiGen-AI/MeiGen-MultiTalk,L2,Not qualified,O3,True,True,False,MeiGen-AI,China,China,community,Vision/Video/3D
+MetaStoneTec/MetaStone-S1-32B,L4,Not qualified,O3,True,False,False,MetaStoneTec,China,China,company,Text/NLP
+MetaStoneTec/XBai-o4,L4,Not qualified,O3,True,False,False,MetaStoneTec,China,China,company,Text/NLP
+MiniMaxAI/MiniMax-M2,L4,Not qualified,O3,True,True,False,MiniMax,China,China,company,Text/NLP
+MiniMaxAI/MiniMax-M2.1,L2,O3,O3,True,True,True,MiniMax,China,China,company,Text/NLP
+MiniMaxAI/MiniMax-M2.5,L2,Not qualified,O1,True,True,False,MiniMax,China,China,company,Text/NLP
+MochunniaN1/One-to-All-14b,L2,Not qualified,O3,True,True,False,MochunniaN1,China,China,user,Vision/Video/3D
+MongoDB/mdbr-leaf-ir,L2,Not qualified,O3,True,True,False,MongoDB,United States of America,USA,company,Embedding/Retrieval
+Motif-Technologies/Motif-2-12.7B-Instruct,L1,Not qualified,O3,True,False,False,Motif Technologies,South Korea,Other Asia,company,Text/NLP
+Motif-Technologies/Motif-2.6B,L2,Not qualified,Not qualified,False,True,False,Motif Technologies,South Korea,Other Asia,company,Text/NLP
+NC-AI-consortium-VAETKI/VAETKI,L2,O3,O3,True,True,True,NC-AI-consortium-VAETKI,South Korea,Other Asia,company,Text/NLP
+NX-AI/TiRex,L0,O1,O1,True,True,True,NX-AI,Austria,Europe,company,Other
+Nanbeige/Nanbeige4-3B-Base,L2,Not qualified,O3,True,True,False,Nanbeige LLM Lab,China,China,community,Text/NLP
+Nanbeige/Nanbeige4-3B-Thinking-2511,L2,Not qualified,O3,True,True,False,Nanbeige LLM Lab,China,China,community,Text/NLP
+Nanbeige/Nanbeige4.1-3B,L2,Not qualified,O3,True,True,False,Nanbeige LLM Lab,China,China,community,Text/NLP
+NewBie-AI/NewBie-image-Exp0.1,L1,Not qualified,O1,True,True,False,NewBie AI,China,China,non-profit,Vision/Video/3D
+OpenFold/OpenFold3,L2,Not qualified,O3,True,False,False,OpenFold Consortium,United States of America,USA,non-profit,Embedding/Retrieval
+OpenGVLab/InternVL3-14B,L4,O3,O3,True,True,True,InternLM,China,China,company,Multimodal Chat
+OpenGVLab/InternVL3-1B,L4,O3,O3,True,True,True,InternLM,China,China,company,Multimodal Chat
+OpenGVLab/InternVL3-78B,L4,O1,O1,True,True,True,InternLM,China,China,company,Multimodal Chat
+OpenGVLab/InternVL3-8B,L4,O3,O3,True,True,True,InternLM,China,China,company,Multimodal Chat
+OpenGVLab/InternVL3_5-8B,L4,Not qualified,O3,True,True,False,InternLM,China,China,company,Multimodal Chat
+OpenMOSS-Team/MOSS-TTS,L4,Not qualified,O3,True,True,False,OpenMOSS-Team,China,China,university,Speech/Audio
+OpenMOSS-Team/MOSS-TTS-Realtime,L4,Not qualified,O3,True,True,False,OpenMOSS-Team,China,China,university,Speech/Audio
+OpenMOSS-Team/MOSS-TTSD-v1.0,L4,Not qualified,O3,True,True,False,OpenMOSS-Team,China,China,university,Speech/Audio
+OpenMOSS-Team/MOSS-VoiceGenerator,L2,Not qualified,O3,True,True,False,OpenMOSS-Team,China,China,university,Speech/Audio
+OpenMOSS-Team/MOVA-360p,L2,Not qualified,O3,True,True,False,OpenMOSS-Team,China,China,university,Vision/Video/3D
+OpenMOSS-Team/MOVA-720p,L2,Not qualified,O3,True,True,False,OpenMOSS-Team,China,China,university,Multimodal Chat
+OuteAI/Llama-OuteTTS-1.0-1B,L2,Not qualified,O1,True,False,False,OuteAI,Lithuania,Europe,company,Speech/Audio
+Overworld/Waypoint-1-Small,L1,Not qualified,O3,True,False,False,Overworld,United States of America,USA,company,Text/NLP
+PaddlePaddle/PP-DocLayoutV3,L0,Not qualified,O3,True,True,False,PaddlePaddle,China,China,company,Vision/Video/3D
+Photoroom/prx-1024-t2i-beta,L1,Not qualified,O3,True,True,False,Photoroom,France,Europe,company,Vision/Video/3D
+PleIAs/Baguettotron,L2,Not qualified,O3,True,False,True,PleIAs,France,Europe,company,Text/NLP
+PleIAs/Pleias-RAG-1B,L2,Not qualified,O3,True,False,False,PleIAs,France,Europe,company,Text/NLP
+PrimeIntellect/INTELLECT-2,L2,O3,O3,True,True,True,Prime Intellect,United States of America,USA,company,Text/NLP
+Prior-Labs/tabpfn_2_5,L2,Not qualified,O1,True,True,False,Prior Labs,Germany,Europe,company,Other
+Qika/DeepMedix-R1,L1,Not qualified,O3,True,True,False,Qika,China,China,company,Text/NLP
+QuixiAI/Prisma-VL-8B,L1,Not qualified,O3,True,True,False,Quixi AI,United States of America,USA,community,Multimodal Chat
+Qwen/QwQ-32B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/QwQ-32B-Preview,L1,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen-Image,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Qwen/Qwen-Image-2512,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Qwen/Qwen-Image-Edit,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Qwen/Qwen-Image-Edit-2509,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Qwen/Qwen-Image-Edit-2511,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Qwen/Qwen-Image-Layered,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Qwen/Qwen2.5-0.5B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen2.5-1.5B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen2.5-3B-Instruct,L2,Not qualified,O1,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen2.5-7B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen2.5-Coder-32B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen2.5-Coder-7B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen2.5-Omni-3B,L2,Not qualified,O1,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen2.5-Omni-7B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen2.5-VL-3B-Instruct,L2,Not qualified,O1,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen2.5-VL-72B-Instruct,L2,Not qualified,O1,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen2.5-VL-7B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-0.6B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-1.7B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-14B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-235B-A22B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-235B-A22B-Instruct-2507,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-235B-A22B-Thinking-2507,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-30B-A3B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-30B-A3B-Instruct-2507,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-30B-A3B-Thinking-2507,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-32B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-4B,L4,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-4B-Instruct-2507,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-4B-SafeRL,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-4B-Thinking-2507,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-8B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-ASR-0.6B,L4,Not qualified,O3,True,True,False,Alibaba,China,China,company,Speech/Audio
+Qwen/Qwen3-ASR-1.7B,L4,Not qualified,O3,True,True,False,Alibaba,China,China,company,Speech/Audio
+Qwen/Qwen3-Coder-30B-A3B-Instruct,L4,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-Coder-480B-A35B-Instruct,L4,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-Coder-Next,L5,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-Coder-Next-Base,L4,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-Embedding-0.6B,L4,Not qualified,O3,True,True,False,Alibaba,China,China,company,Embedding/Retrieval
+Qwen/Qwen3-Embedding-8B,L4,Not qualified,O3,True,True,False,Alibaba,China,China,company,Embedding/Retrieval
+Qwen/Qwen3-ForcedAligner-0.6B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Speech/Audio
+Qwen/Qwen3-Next-80B-A3B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-Next-80B-A3B-Thinking,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+Qwen/Qwen3-Omni-30B-A3B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-Omni-30B-A3B-Thinking,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-TTS-12Hz-0.6B-Base,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Speech/Audio
+Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Speech/Audio
+Qwen/Qwen3-TTS-12Hz-1.7B-Base,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Speech/Audio
+Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Speech/Audio
+Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Speech/Audio
+Qwen/Qwen3-VL-235B-A22B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-VL-235B-A22B-Thinking,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-VL-2B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-VL-2B-Thinking,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-VL-30B-A3B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-VL-30B-A3B-Thinking,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-VL-32B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-VL-4B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-VL-4B-Thinking,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-VL-8B-Instruct,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-VL-8B-Thinking,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3-VL-Embedding-2B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Embedding/Retrieval
+Qwen/Qwen3-VL-Embedding-8B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Embedding/Retrieval
+Qwen/Qwen3-VL-Reranker-2B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Embedding/Retrieval
+Qwen/Qwen3-VL-Reranker-8B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Embedding/Retrieval
+Qwen/Qwen3.5-0.8B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3.5-122B-A10B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3.5-27B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3.5-2B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3.5-35B-A3B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3.5-35B-A3B-Base,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3.5-397B-A17B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3.5-4B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/Qwen3.5-9B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Qwen/WorldPM-72B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Text/NLP
+RUC-DataLab/DeepAnalyze-8B,L4,O3,O3,True,True,True,RUC-DataLab,China,China,university,Text/NLP
+RaphaelLiu/Pusa-V0.5,L2,Not qualified,O3,True,True,False,RaphaelLiu,Unknown,Unknown,user,Text/NLP
+RekaAI/reka-flash-3.1,L1,Not qualified,O3,True,True,False,Reka AI,United States of America,USA,company,Multimodal Chat
+ResembleAI/chatterbox,L1,Not qualified,O3,True,False,False,Resemble AI,United States of America,USA,company,Speech/Audio
+ResembleAI/chatterbox-turbo,L2,Not qualified,O3,True,True,False,Resemble AI,United States of America,USA,company,Speech/Audio
+S4nfs/Neeto-1.0-8b,L2,Not qualified,O1,True,True,False,S4nfs,Unknown,Unknown,user,Text/NLP
+SWivid/F5-TTS,L4,O1,O1,True,True,True,SWivid,China,China,user,Speech/Audio
+Salesforce/CoDA-v0-Instruct,L2,Not qualified,O1,True,True,False,Salesforce,United States of America,USA,company,Text/NLP
+ScienceOne-AI/S1-Base-671B,L2,Not qualified,O3,True,False,False,ScienceOne-AI,China,China,non-profit,Text/NLP
+ServiceNow-AI/Apriel-1.5-15b-Thinker,L2,Not qualified,O3,True,True,False,ServiceNow-AI,United States of America,USA,company,Multimodal Chat
+ServiceNow-AI/Apriel-1.6-15b-Thinker,L2,Not qualified,O3,True,True,False,ServiceNow-AI,United States of America,USA,company,Multimodal Chat
+ServiceNow-AI/Apriel-5B-Instruct,L2,Not qualified,O3,True,True,False,ServiceNow-AI,United States of America,USA,company,Text/NLP
+ServiceNow-AI/Apriel-Nemotron-15b-Thinker,L2,Not qualified,O3,True,True,False,ServiceNow-AI,United States of America,USA,company,Text/NLP
+SicariusSicariiStuff/Assistant_Pepe_8B,L0,Not qualified,O1,True,False,True,SicariusSicariiStuff,Unknown,Unknown,user,Text/NLP
+Skywork/Matrix-Game-2.0,L2,Not qualified,O3,True,True,False,Skywork,Singapore,Other Asia,company,Vision/Video/3D
+Skywork/SkyCaptioner-V1,L2,Not qualified,O1,True,False,False,Skywork,Singapore,Other Asia,company,Multimodal Chat
+Skywork/SkyReels-A2,L2,Not qualified,O3,True,False,False,Skywork,Singapore,Other Asia,company,Vision/Video/3D
+Skywork/SkyReels-V2-DF-1.3B-540P,L2,Not qualified,O1,True,False,False,Skywork,Singapore,Other Asia,company,Vision/Video/3D
+Skywork/SkyReels-V2-I2V-1.3B-540P,L2,Not qualified,O1,True,False,False,Skywork,Singapore,Other Asia,company,Vision/Video/3D
+Skywork/SkyReels-V2-I2V-14B-540P,L2,Not qualified,O1,True,False,False,Skywork,Singapore,Other Asia,company,Vision/Video/3D
+Skywork/SkyReels-V2-T2V-14B-720P,L2,Not qualified,O1,True,False,False,Skywork,Singapore,Other Asia,company,Vision/Video/3D
+Skywork/SkyReels-V3-A2V-19B,L2,Not qualified,O1,True,False,False,Skywork,Singapore,Other Asia,company,Vision/Video/3D
+Skywork/Skywork-R1V2-38B,L4,Not qualified,O3,True,True,False,Skywork,Singapore,Other Asia,company,Multimodal Chat
+Skywork/Skywork-UniPic-1.5B,L2,Not qualified,O3,True,True,False,Skywork,Singapore,Other Asia,company,Multimodal Chat
+Soul-AILab/SoulX-Podcast-1.7B,L2,Not qualified,O3,True,True,False,Soul-AILab,China,China,company,Speech/Audio
+Soul-AILab/SoulX-Singer,L3,Not qualified,O3,True,True,False,Soul-AILab,China,China,company,Speech/Audio
+SparkAudio/Spark-TTS-0.5B,L2,Not qualified,O1,True,True,False,Spark Audio,Canada,Other North America,community,Speech/Audio
+Spirit-AI-robotics/Spirit-v1.5,L0,Not qualified,O3,True,True,False,Spirit-AI-robotics,China,China,company,Other
+Supertone/supertonic,L2,Not qualified,O1,True,True,False,Supertone,South Korea,Other Asia,company,Speech/Audio
+Supertone/supertonic-2,L2,Not qualified,O1,True,True,False,Supertone,South Korea,Other Asia,company,Speech/Audio
+TEN-framework/ten-vad,L2,Not qualified,O1,True,True,False,TEN-framework,United States of America,USA,community,Speech/Audio
+Tesslate/WEBGEN-OSS-20B,L1,Not qualified,O3,True,True,False,Tesslate,United States of America,USA,company,Text/NLP
+TildeAI/TildeOpen-30b,L2,O3,O3,True,True,True,Tilde,Latvia,Europe,company,Text/NLP
+TinyLlama/TinyLlama-1.1B-Chat-v1.0,L1,O3,O3,True,True,True,TinyLlama,Singapore,Other Asia,university,Text/NLP
+Tongyi-MAI/MAI-UI-8B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Multimodal Chat
+Tongyi-MAI/Z-Image,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Tongyi-MAI/Z-Image-Turbo,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Tongyi-Zhiwen/QwenLong-CPRS-7B,L2,Not qualified,O3,True,False,False,Alibaba,China,China,company,Text/NLP
+Tongyi-Zhiwen/QwenLong-L1.5-30B-A3B,L2,Not qualified,O3,True,False,False,Alibaba,China,China,company,Text/NLP
+Trendyol/Trendyol-LLM-Asure-12B,L1,Not qualified,O1,True,True,False,Trendyol,Turkey,Other Asia,company,Multimodal Chat
+Ubisoft/ubisoft-laforge-chord,L1,Not qualified,O1,True,True,False,Ubisoft,France,Europe,company,Vision/Video/3D
+Vikhrmodels/Borealis,L2,Not qualified,O3,True,True,False,Vikhr models,Russia,Europe,community,Speech/Audio
+W2GenAI/LucidFlux,L2,Not qualified,O1,True,True,False,W2GenAI Lab,China,China,non-profit,Vision/Video/3D
+Wan-AI/Wan2.1-FLF2V-14B-720P,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.1-I2V-14B-480P,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.1-I2V-14B-720P,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.1-T2V-1.3B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.1-T2V-14B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.1-VACE-1.3B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.1-VACE-14B,L2,Not qualified,O1,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.2-I2V-A14B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.2-I2V-A14B-Diffusers,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.2-S2V-14B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.2-T2V-A14B,L2,Not qualified,O1,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.2-T2V-A14B-Diffusers,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.2-TI2V-5B,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Wan-AI/Wan2.2-TI2V-5B-Diffusers,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+Xiaojiu-Z/EasyControl,L0,Not qualified,O3,True,True,False,EasyControl,China,China,community,Vision/Video/3D
+XiaomiMiMo/MiMo-7B-Base,L2,Not qualified,O3,True,True,False,Xiaomi MiMo,China,China,company,Text/NLP
+XiaomiMiMo/MiMo-7B-RL,L2,Not qualified,O3,True,True,False,Xiaomi MiMo,China,China,company,Text/NLP
+XiaomiMiMo/MiMo-7B-RL-0530,L2,Not qualified,O3,True,True,False,Xiaomi MiMo,China,China,company,Text/NLP
+XiaomiMiMo/MiMo-Audio-7B-Base,L2,Not qualified,O3,True,True,False,Xiaomi MiMo,China,China,company,Multimodal Chat
+XiaomiMiMo/MiMo-Audio-7B-Instruct,L2,Not qualified,O3,True,True,False,Xiaomi MiMo,China,China,company,Multimodal Chat
+XiaomiMiMo/MiMo-Embodied-7B,L1,Not qualified,O3,True,True,False,Xiaomi MiMo,China,China,company,Multimodal Chat
+XiaomiMiMo/MiMo-V2-Flash,L2,Not qualified,O3,True,True,False,Xiaomi MiMo,China,China,company,Text/NLP
+XiaomiMiMo/MiMo-VL-7B-RL,L2,Not qualified,O3,True,True,False,Xiaomi MiMo,China,China,company,Multimodal Chat
+XiaomiMiMo/MiMo-VL-7B-RL-2508,L2,Not qualified,O3,True,True,False,Xiaomi MiMo,China,China,company,Multimodal Chat
+XuGuo699/DreamID-V,L1,Not qualified,O3,True,True,False,XuGuo699,Unknown,Unknown,user,Vision/Video/3D
+YatharthS/FlashSR,L1,Not qualified,O3,True,True,False,YatharthS,Unknown,Unknown,user,Speech/Audio
+YatharthS/LavaSR,L2,Not qualified,O3,True,True,False,YatharthS,Unknown,Unknown,user,Speech/Audio
+YatharthS/LuxTTS,L3,Not qualified,O3,True,True,False,YatharthS,Unknown,Unknown,user,Speech/Audio
+YatharthS/MiraTTS,L1,Not qualified,O1,True,True,False,YatharthS,Unknown,Unknown,user,Speech/Audio
+YatharthS/NovaSR,L1,Not qualified,O3,True,True,False,YatharthS,Unknown,Unknown,user,Speech/Audio
+YuanLabAI/Yuan3.0-Ultra,L4,Not qualified,O1,True,True,False,YuanLabAI,China,China,company,Multimodal Chat
+ZJU-AI4H/Hulu-Med-14B,L4,Not qualified,O3,True,True,False,ZJU-AI4H,China,China,university,Multimodal Chat
+ZJU-AI4H/Hulu-Med-7B,L4,Not qualified,O3,True,True,False,ZJU-AI4H,China,China,university,Multimodal Chat
+ZhengPeng7/BiRefNet,L4,Not qualified,O3,True,True,False,ZhengPeng7,Unknown,Unknown,user,Vision/Video/3D
+Zyphra/ZUNA,L0,Not qualified,O3,True,True,False,Zyphra,United States of America,USA,company,Embedding/Retrieval
+Zyphra/Zonos-v0.1-hybrid,L2,Not qualified,O3,True,True,False,Zyphra,United States of America,USA,company,Speech/Audio
+Zyphra/Zonos-v0.1-transformer,L2,Not qualified,O3,True,True,False,Zyphra,United States of America,USA,company,Speech/Audio
+a-m-team/AM-Thinking-v1,L2,Not qualified,O3,True,True,False,am team,China,China,community,Text/NLP
+ai-forever/FRIDA,L2,O3,O3,True,True,True,ai-forever,Unknown,Unknown,user,Embedding/Retrieval
+ai-sage/Giga-Embeddings-instruct,L2,Not qualified,O3,True,True,False,ai-sage,Russia,Europe,non-profit,Embedding/Retrieval
+ai21labs/AI21-Jamba-Reasoning-3B,L2,Not qualified,O3,True,True,False,AI21,Israel,Other Asia,company,Text/NLP
+ali-vilab/ACE_Plus,L2,Not qualified,O1,True,False,False,ali-vilab,China,China,company,Vision/Video/3D
+alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union-2.1,L2,Not qualified,O3,True,True,False,Alibaba,China,China,company,Vision/Video/3D
+allenai/OLMo-2-0425-1B,L5,O3,O3,True,True,True,Ai2,United States of America,USA,non-profit,Text/NLP
+allenai/OLMoASR,L4,Not qualified,O3,True,True,False,Ai2,United States of America,USA,non-profit,Multimodal Chat
+allenai/Olmo-3-1125-32B,L2,O3,O3,True,True,True,Ai2,United States of America,USA,non-profit,Text/NLP
+allenai/Olmo-3-32B-Think,L2,O3,O3,True,True,True,Ai2,United States of America,USA,non-profit,Text/NLP
+allenai/Olmo-3-7B-Instruct,L2,O3,O3,True,True,True,Ai2,United States of America,USA,non-profit,Text/NLP
+allenai/Olmo-3-7B-Think,L2,O3,O3,True,True,True,Ai2,United States of America,USA,non-profit,Text/NLP
+allenai/Olmo-3.1-32B-Instruct,L2,O3,O3,True,True,True,Ai2,United States of America,USA,non-profit,Text/NLP
+allenai/Olmo-3.1-32B-Think,L2,O3,O3,True,True,True,Ai2,United States of America,USA,non-profit,Text/NLP
+allenai/SERA-32B,L2,Not qualified,O3,True,True,False,Ai2,United States of America,USA,non-profit,Text/NLP
+allura-forge/Llama-3.3-8B-Instruct,L2,Not qualified,O1,True,True,False,Allura (Forge),Unknown,Unknown,community,Text/NLP
+amazon/chronos-2,L0,O3,O3,True,True,True,Amazon,United States of America,USA,company,Other
+amd/Nitro-E,L1,Not qualified,O3,True,True,False,AMD,United States of America,USA,company,Vision/Video/3D
+amphion/TaDiCodec,L2,Not qualified,O3,True,True,False,Amphion,China,China,community,Speech/Audio
+apple/DiffuCoder-7B-cpGRPO,L2,Not qualified,O1,True,False,False,Apple,United States of America,USA,company,Text/NLP
+apple/FastVLM-0.5B,L2,Not qualified,O1,True,True,False,Apple,United States of America,USA,company,Text/NLP
+apple/FastVLM-1.5B,L2,Not qualified,O1,True,True,False,Apple,United States of America,USA,company,Text/NLP
+apple/FastVLM-7B,L2,Not qualified,O1,True,True,False,Apple,United States of America,USA,company,Text/NLP
+apple/MobileCLIP2-S0,L5,Not qualified,O1,True,True,False,Apple,United States of America,USA,company,Vision/Video/3D
+apple/starflow,L2,Not qualified,O1,True,False,False,Apple,United States of America,USA,company,Vision/Video/3D
+arcee-ai/Trinity-Large-Preview,L2,Not qualified,O3,True,True,False,Arcee AI,United States of America,USA,company,Text/NLP
+arcee-ai/Trinity-Mini,L2,Not qualified,O3,True,True,False,Arcee AI,United States of America,USA,company,Text/NLP
+baidu/ERNIE-4.5-0.3B-PT,L2,Not qualified,O3,True,True,False,Baidu,China,China,company,Text/NLP
+baidu/ERNIE-4.5-21B-A3B-PT,L2,Not qualified,O3,True,True,False,Baidu,China,China,company,Text/NLP
+baidu/ERNIE-4.5-21B-A3B-Thinking,L4,Not qualified,O3,True,True,False,Baidu,China,China,company,Text/NLP
+baidu/ERNIE-4.5-300B-A47B-PT,L2,Not qualified,O3,True,True,False,Baidu,China,China,company,Text/NLP
+baidu/ERNIE-4.5-VL-28B-A3B-PT,L2,Not qualified,O3,True,True,False,Baidu,China,China,company,Multimodal Chat
+baidu/ERNIE-4.5-VL-28B-A3B-Paddle,L2,Not qualified,O3,True,True,False,Baidu,China,China,company,Multimodal Chat
+baidu/ERNIE-4.5-VL-28B-A3B-Thinking,L4,Not qualified,O3,True,True,False,Baidu,China,China,company,Multimodal Chat
+baidu/ERNIE-4.5-VL-424B-A47B-PT,L2,Not qualified,O3,True,True,False,Baidu,China,China,company,Multimodal Chat
+bharatgenai/Param2-17B-A2.4B-Thinking,L2,Not qualified,O1,True,True,False,BharatGen AI,India,Other Asia,company,Text/NLP
+bharatgenai/sooktam2,L2,Not qualified,O1,True,True,False,BharatGen AI,India,Other Asia,company,Speech/Audio
+black-forest-labs/FLUX.1-Fill-dev,L1,Not qualified,O1,True,True,False,Black Forest Labs,Germany,Europe,company,Vision/Video/3D
+black-forest-labs/FLUX.1-Kontext-dev,L2,Not qualified,O1,True,True,False,Black Forest Labs,Germany,Europe,company,Vision/Video/3D
+black-forest-labs/FLUX.1-Krea-dev,L2,Not qualified,O1,True,True,False,Black Forest Labs,Germany,Europe,company,Vision/Video/3D
+black-forest-labs/FLUX.1-dev,L1,Not qualified,O1,True,True,False,Black Forest Labs,Germany,Europe,company,Vision/Video/3D
+black-forest-labs/FLUX.1-schnell,L1,Not qualified,O3,True,True,False,Black Forest Labs,Germany,Europe,company,Vision/Video/3D
+black-forest-labs/FLUX.2-dev,L2,Not qualified,O1,True,True,False,Black Forest Labs,Germany,Europe,company,Vision/Video/3D
+black-forest-labs/FLUX.2-klein-4B,L2,Not qualified,O3,True,True,False,Black Forest Labs,Germany,Europe,company,Vision/Video/3D
+black-forest-labs/FLUX.2-klein-9B,L2,Not qualified,O1,True,True,False,Black Forest Labs,Germany,Europe,company,Vision/Video/3D
+black-forest-labs/FLUX.2-klein-base-9B,L2,Not qualified,O1,True,True,False,Black Forest Labs,Germany,Europe,company,Vision/Video/3D
+bosonai/higgs-audio-v2-generation-3B-base,L2,Not qualified,O1,True,True,False,BosonAI,United States of America,USA,company,Speech/Audio
+briaai/FIBO,L2,Not qualified,O1,True,False,False,BRIA AI,Israel,Other Asia,company,Vision/Video/3D
+briaai/RMBG-2.0,L2,Not qualified,O1,True,False,False,BRIA AI,Israel,Other Asia,company,Vision/Video/3D
+bytedance-research/HuMo,L2,Not qualified,O3,True,True,False,ByteDance,China,China,company,Vision/Video/3D
+bytedance-research/Phantom,L2,Not qualified,O3,True,True,False,ByteDance,China,China,company,Vision/Video/3D
+canopylabs/orpheus-3b-0.1-ft,L2,Not qualified,O3,True,True,False,Canopy Labs,United States of America,USA,company,Speech/Audio
+chandar-lab/NeoBERT,L4,O3,O3,True,True,True,Chandar Research Lab,Canada,Other North America,university,Embedding/Retrieval
+comfyanonymous/flux_text_encoders,L0,Not qualified,O3,True,True,False,comfyanonymous,Unknown,Unknown,user,Embedding/Retrieval
+coqui/XTTS-v2,L2,Not qualified,O1,True,True,False,Coqui.ai,Germany,Europe,company,Speech/Audio
+datalab-to/chandra,L2,Not qualified,O1,True,True,False,Datalab,Canada,Other North America,company,Multimodal Chat
+deepseek-ai/DeepSeek-OCR,L1,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Multimodal Chat
+deepseek-ai/DeepSeek-OCR-2,L1,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Multimodal Chat
+deepseek-ai/DeepSeek-Prover-V2-671B,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-Prover-V2-7B,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-R1,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-R1-0528,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-R1-Distill-Llama-8B,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-R1-Distill-Qwen-7B,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-V3,L2,Not qualified,O1,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-V3-0324,L1,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-V3.1-Base,L1,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-V3.2,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-V3.2-Exp,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/DeepSeek-V3.2-Speciale,L1,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Text/NLP
+deepseek-ai/Janus-Pro-7B,L2,Not qualified,O3,True,True,False,DeepSeek,China,China,company,Multimodal Chat
+deepseek-ai/deepseek-vl2,L1,Not qualified,O1,True,True,False,DeepSeek,China,China,company,Multimodal Chat
+depth-anything/DA3NESTED-GIANT-LARGE,L2,Not qualified,O1,True,True,False,Depth Anything,China,China,non-profit,Vision/Video/3D
+distilbert/distilbert-base-uncased,L2,Not qualified,O3,True,True,False,DistilBERT community,United States of America,USA,community,Text/NLP
+driaforall/mem-agent,L2,Not qualified,O3,True,True,False,Dria,Portugal,Europe,company,Text/NLP
+ekwek/Soprano-1.1-80M,L1,Not qualified,O3,True,True,False,ekwek,Unknown,Unknown,user,Speech/Audio
+ekwek/Soprano-80M,L1,Not qualified,O3,True,True,False,ekwek,Unknown,Unknown,user,Speech/Audio
+facebook/MobileLLM-Pro,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+facebook/MobileLLM-R1-950M,L4,O1,O1,True,True,True,Meta,United States of America,USA,company,Text/NLP
+facebook/ODAC25,L5,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Embedding/Retrieval
+facebook/OMol25,L5,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Embedding/Retrieval
+facebook/Perception-LM-8B,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Multimodal Chat
+facebook/ShapeR,L3,O1,O1,True,True,True,Meta,United States of America,USA,company,Vision/Video/3D
+facebook/UMA,L5,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Embedding/Retrieval
+facebook/bart-large-mnli,L1,Not qualified,O3,True,True,False,Meta,United States of America,USA,company,Text/NLP
+facebook/blt,L1,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+facebook/cwm,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+facebook/dinov3-vit7b16-pretrain-lvd1689m,L3,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Embedding/Retrieval
+facebook/dinov3-vitb16-pretrain-lvd1689m,L3,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Embedding/Retrieval
+facebook/dinov3-vitl16-pretrain-lvd1689m,L3,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Embedding/Retrieval
+facebook/dinov3-vits16-pretrain-lvd1689m,L3,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Embedding/Retrieval
+facebook/map-anything,L3,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Vision/Video/3D
+facebook/nllb-200-distilled-1.3B,L1,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+facebook/pe-av-large,L2,Not qualified,O3,True,True,False,Meta,United States of America,USA,company,Embedding/Retrieval
+facebook/sam-3d-body-dinov3,L0,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Vision/Video/3D
+facebook/sam-3d-objects,L0,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Vision/Video/3D
+facebook/sam-audio-large,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Speech/Audio
+facebook/sam-audio-small,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Speech/Audio
+facebook/sam3,L3,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Vision/Video/3D
+fashn-ai/fashn-vton-1.5,L1,Not qualified,O3,True,True,False,FASHN,United Kingdom,Europe,company,Vision/Video/3D
+fastino/gliner2-base-v1,L3,Not qualified,O3,True,True,False,fastino,United States of America,USA,company,Text/NLP
+foreverlasting1202/QuestA-Nemotron-1.5B,L3,Not qualified,O3,True,True,False,foreverlasting1202,Unknown,Unknown,user,Text/NLP
+google-bert/bert-base-uncased,L2,Not qualified,O3,True,True,False,BERT community,United States of America,USA,company,Text/NLP
+google/alphagenome-all-folds,L0,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Embedding/Retrieval
+google/embeddinggemma-300m,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Embedding/Retrieval
+google/flan-t5-base,L2,O3,O3,True,True,True,Google,United States of America,USA,company,Text/NLP
+google/functiongemma-270m-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Text/NLP
+google/gemma-2-2b-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Text/NLP
+google/gemma-3-12b-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/gemma-3-12b-it-qat-q4_0-unquantized,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/gemma-3-1b-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Text/NLP
+google/gemma-3-270m,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Text/NLP
+google/gemma-3-270m-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Text/NLP
+google/gemma-3-27b-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/gemma-3-4b-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/gemma-3n-E2B-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/gemma-3n-E2B-it-litert-preview,L0,O1,O1,True,True,True,Google,United States of America,USA,company,Multimodal Chat
+google/gemma-3n-E4B-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/gemma-3n-E4B-it-litert-lm,L0,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Text/NLP
+google/gemma-3n-E4B-it-litert-preview,L0,O1,O1,True,True,True,Google,United States of America,USA,company,Multimodal Chat
+google/medasr,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Speech/Audio
+google/medgemma-1.5-4b-it,L2,O1,O1,True,True,True,Google,United States of America,USA,company,Multimodal Chat
+google/medgemma-27b-it,L3,O1,O1,True,True,True,Google,United States of America,USA,company,Multimodal Chat
+google/medgemma-27b-text-it,L3,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Text/NLP
+google/medgemma-4b-it,L3,O1,O1,True,True,True,Google,United States of America,USA,company,Multimodal Chat
+google/medgemma-4b-pt,L3,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/medsiglip-448,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Vision/Video/3D
+google/t5gemma-2-1b-1b,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/t5gemma-2-270m-270m,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/t5gemma-2-4b-4b,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/timesfm-2.5-200m-pytorch,L0,Not qualified,O3,True,True,False,Google,United States of America,USA,company,Other
+google/translategemma-12b-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/translategemma-27b-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/translategemma-4b-it,L2,Not qualified,O1,True,True,False,Google,United States of America,USA,company,Multimodal Chat
+google/vaultgemma-1b,L2,Not qualified,O1,True,False,False,Google,United States of America,USA,company,Text/NLP
+guidelabs/steerling-8b,L2,O3,O3,True,True,True,Guide Labs,United States of America,USA,company,Text/NLP
+herimor/voxtream,L2,O3,O3,True,True,True,herimor,Unknown,Unknown,user,Speech/Audio
+hexgrad/Kokoro-82M-v1.1-zh,L1,Not qualified,O3,True,False,False,hexgrad,Unknown,Unknown,user,Speech/Audio
+huaichang/PersonaLive,L3,Not qualified,O3,True,True,False,huaichang,Unknown,Unknown,user,Vision/Video/3D
+iFlyBot/iFlyBotVLM,L2,Not qualified,O3,True,True,False,iFlyBot,China,China,company,Multimodal Chat
+ibm-granite/granite-3.2-2b-instruct,L2,Not qualified,O3,True,False,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-3.2-8b-instruct,L2,Not qualified,O3,True,False,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-3.3-8b-instruct,L1,Not qualified,O3,True,False,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-4.0-1b-speech,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Speech/Audio
+ibm-granite/granite-4.0-h-1b,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-4.0-h-micro,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-4.0-h-micro-base,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-4.0-h-small,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-4.0-h-small-base,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-4.0-h-tiny,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-4.0-h-tiny-base,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-4.0-micro,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-4.0-micro-base,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-4.0-tiny-preview,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Text/NLP
+ibm-granite/granite-docling-258M,L2,O3,O3,True,True,True,IBM Granite,United States of America,USA,company,Multimodal Chat
+ibm-granite/granite-embedding-english-r2,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Embedding/Retrieval
+ibm-granite/granite-embedding-small-english-r2,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Embedding/Retrieval
+ibm-granite/granite-speech-3.2-8b,L2,Not qualified,O3,True,False,False,IBM Granite,United States of America,USA,company,Speech/Audio
+ibm-granite/granite-timeseries-ttm-r2,L0,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Other
+ibm-granite/granite-vision-3.2-2b,L2,Not qualified,O3,True,True,False,IBM Granite,United States of America,USA,company,Multimodal Chat
+inclusionAI/AReaL-1.5B-Preview-Stage-1,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/AReaL-boba-2-14B,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/AReaL-boba-2-14B-Open,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/AReaL-boba-2-32B,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/AReaL-boba-2-8B,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/AReaL-boba-2-8B-Open,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/LLaDA2.0-flash-preview,L2,Not qualified,O3,True,False,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/LLaDA2.0-mini-preview,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/LLaDA2.1-flash,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/LLaDA2.1-mini,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-1T,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-2.5-1T,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-Coder-lite,L3,O3,O3,True,True,True,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-Coder-lite-base,L3,O3,O3,True,True,True,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-flash-2.0,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-lite,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-lite-1.5,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-lite-1.5-2506,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-lite-1.5-2507,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-lite-base,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-lite-base-1.5,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-mini-2.0,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-plus,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ling-plus-base,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ming-Lite-Uni,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Multimodal Chat
+inclusionAI/Ming-UniAudio-16B-A3B,L3,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Multimodal Chat
+inclusionAI/Ming-UniVision-16B-A3B,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Multimodal Chat
+inclusionAI/Ming-flash-omni-2.0,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Multimodal Chat
+inclusionAI/Ring-1T,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ring-1T-preview,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ring-2.5-1T,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ring-flash-2.0,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ring-flash-linear-2.0,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ring-lite,L3,O3,O3,True,True,True,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ring-lite-2506,L2,O3,O3,True,True,True,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ring-lite-2507,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ring-lite-distill-preview,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ring-lite-linear-preview,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ring-mini-2.0,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+inclusionAI/Ring-mini-linear-2.0,L2,Not qualified,O3,True,True,False,inclusionAI,China,China,company,Text/NLP
+internlm/Intern-S1,L4,Not qualified,O3,True,True,False,InternLM,China,China,company,Multimodal Chat
+internlm/Intern-S1-Pro,L4,Not qualified,O3,True,True,False,InternLM,China,China,company,Multimodal Chat
+internlm/Intern-S1-mini,L4,Not qualified,O3,True,True,False,InternLM,China,China,company,Multimodal Chat
+intfloat/multilingual-e5-large,L2,Not qualified,O3,True,True,False,intfloat,Unknown,Unknown,user,Embedding/Retrieval
+intfloat/multilingual-e5-large-instruct,L2,Not qualified,O3,True,True,False,intfloat,Unknown,Unknown,user,Embedding/Retrieval
+jdopensource/JoyAI-LLM-Flash,L2,Not qualified,O3,True,True,False,jdopensource,China,China,company,Text/NLP
+jhu-clsp/mmBERT-base,L2,Not qualified,O3,True,False,True,Center for Language and Speech Processing @ JHU,United States of America,USA,university,Text/NLP
+jinaai/ReaderLM-v2,L2,Not qualified,O1,True,True,False,Jina AI,Germany,Europe,company,Text/NLP
+jinaai/jina-embeddings-v3,L2,Not qualified,O1,True,True,False,Jina AI,Germany,Europe,company,Embedding/Retrieval
+jinaai/jina-embeddings-v4,L2,Not qualified,O1,True,True,False,Jina AI,Germany,Europe,company,Embedding/Retrieval
+kakaocorp/kanana-1.5-8b-instruct-2505,L0,Not qualified,O3,True,True,False,Kakao Corp.,South Korea,Other Asia,company,Text/NLP
+kakaocorp/kanana-2-30b-a3b-instruct,L2,Not qualified,O1,True,True,False,Kakao Corp.,South Korea,Other Asia,company,Text/NLP
+kakaocorp/kanana-2-30b-a3b-thinking,L2,Not qualified,O1,True,True,False,Kakao Corp.,South Korea,Other Asia,company,Text/NLP
+kakaocorp/kanana-2-30b-a3b-thinking-2601,L2,O1,O1,True,True,True,Kakao Corp.,South Korea,Other Asia,company,Text/NLP
+karpathy/nanochat-d32,L0,Not qualified,O3,True,False,False,karpathy,Unknown,Unknown,user,Text/NLP
+knowledgator/gliclass-instruct-large-v1.0,L2,O3,O3,True,True,True,Knowledgator Engineering,United Kingdom,Europe,company,Text/NLP
+kpsss34/Stable-Diffusion-3.5-Small-Preview1,L1,Not qualified,O3,True,True,False,kpsss34,Unknown,Unknown,user,Vision/Video/3D
+kugelaudio/kugelaudio-0-open,L2,O3,O3,True,True,True,Kugelaudio,Germany,Europe,company,Speech/Audio
+kyutai/mimi,L2,Not qualified,O3,True,True,False,Kyutai,France,Europe,non-profit,Embedding/Retrieval
+kyutai/pocket-tts,L2,Not qualified,O3,True,True,False,Kyutai,France,Europe,non-profit,Speech/Audio
+kyutai/tts-1.6b-en_fr,L2,Not qualified,O3,True,True,False,Kyutai,France,Europe,non-profit,Speech/Audio
+lerobot/smolvla_base,L2,Not qualified,Not qualified,False,True,False,LeRobot,France,Europe,community,Other
+lightonai/LightOnOCR-1B-1025,L2,Not qualified,O3,True,True,False,LightOn AI,France,Europe,company,Multimodal Chat
+lightonai/LightOnOCR-2-1B,L2,Not qualified,O3,True,True,False,LightOn AI,France,Europe,company,Multimodal Chat
+lightonai/Reason-ModernColBERT,L4,O1,O1,True,True,True,LightOn AI,France,Europe,company,Embedding/Retrieval
+lodestones/Chroma1-Base,L1,Not qualified,O3,True,True,False,lodestones,Unknown,Unknown,user,Vision/Video/3D
+lodestones/Chroma1-HD,L1,Not qualified,O3,True,True,False,lodestones,Unknown,Unknown,user,Vision/Video/3D
+maitrix-org/Voila-chat,L2,O3,O3,True,True,True,Maitrix.org,Unknown,Unknown,community,Speech/Audio
+manifestai/Brumby-14B-Base,L2,Not qualified,O3,True,True,False,manifest ai,United States of America,USA,company,Text/NLP
+marin-community/marin-32b-base,L2,O3,O3,True,True,True,The Marin Project,United States of America,USA,community,Text/NLP
+maya-research/maya1,L2,Not qualified,O3,True,True,False,Maya Research,United States of America,USA,company,Speech/Audio
+meituan-longcat/LongCat-Flash-Chat,L2,Not qualified,O3,True,True,False,LongCat,China,China,company,Text/NLP
+meituan-longcat/LongCat-Flash-Lite,L2,Not qualified,O3,True,True,False,LongCat,China,China,company,Text/NLP
+meituan-longcat/LongCat-Flash-Omni,L4,Not qualified,O3,True,True,False,LongCat,China,China,company,Multimodal Chat
+meituan-longcat/LongCat-Flash-Thinking-2601,L2,Not qualified,O3,True,True,False,LongCat,China,China,company,Text/NLP
+meituan-longcat/LongCat-Image,L4,Not qualified,O3,True,True,False,LongCat,China,China,company,Vision/Video/3D
+meituan-longcat/LongCat-Image-Edit,L4,Not qualified,O3,True,True,False,LongCat,China,China,company,Vision/Video/3D
+meituan-longcat/LongCat-Video,L2,Not qualified,O3,True,True,False,LongCat,China,China,company,Vision/Video/3D
+meituan-longcat/LongCat-Video-Avatar,L2,Not qualified,O3,True,True,False,LongCat,China,China,company,Vision/Video/3D
+meta-llama/Llama-2-7b-chat-hf,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+meta-llama/Llama-2-7b-hf,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+meta-llama/Llama-3.1-8B,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+meta-llama/Llama-3.1-8B-Instruct,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+meta-llama/Llama-3.2-11B-Vision-Instruct,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Multimodal Chat
+meta-llama/Llama-3.2-1B,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+meta-llama/Llama-3.2-1B-Instruct,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+meta-llama/Llama-3.2-3B-Instruct,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+meta-llama/Llama-3.3-70B-Instruct,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+meta-llama/Llama-4-Maverick-17B-128E,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Multimodal Chat
+meta-llama/Llama-4-Maverick-17B-128E-Instruct,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Multimodal Chat
+meta-llama/Llama-4-Maverick-17B-128E-Original,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Multimodal Chat
+meta-llama/Llama-4-Scout-17B-16E,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Multimodal Chat
+meta-llama/Llama-4-Scout-17B-16E-Instruct,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Multimodal Chat
+meta-llama/Meta-Llama-3-8B,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+meta-llama/Meta-Llama-3-8B-Instruct,L2,Not qualified,O1,True,True,False,Meta,United States of America,USA,company,Text/NLP
+microsoft/BioGPT-Large,L1,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Text/NLP
+microsoft/Fara-7B,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Multimodal Chat
+microsoft/Florence-2-large,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Multimodal Chat
+microsoft/Magma-8B,L2,O3,O3,True,True,True,Microsoft,United States of America,USA,company,Other
+microsoft/MediPhi-Instruct,L2,Not qualified,O3,True,False,True,Microsoft,United States of America,USA,company,Text/NLP
+microsoft/OmniParser-v2.0,L0,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Multimodal Chat
+microsoft/Phi-4-mini-flash-reasoning,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Text/NLP
+microsoft/Phi-4-mini-instruct,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Text/NLP
+microsoft/Phi-4-mini-reasoning,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Text/NLP
+microsoft/Phi-4-multimodal-instruct,L2,O3,O3,True,True,True,Microsoft,United States of America,USA,company,Speech/Audio
+microsoft/Phi-4-reasoning,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Text/NLP
+microsoft/Phi-4-reasoning-plus,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Text/NLP
+microsoft/Phi-4-reasoning-vision-15B,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Multimodal Chat
+microsoft/TRELLIS.2-4B,L1,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Vision/Video/3D
+microsoft/VibeVoice-1.5B,L1,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Speech/Audio
+microsoft/VibeVoice-ASR,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Speech/Audio
+microsoft/bitnet-b1.58-2B-4T,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Text/NLP
+microsoft/kosmos-2.5,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Multimodal Chat
+microsoft/phi-4,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Text/NLP
+microsoft/renderformer-v1.1-swin-large,L2,Not qualified,O3,True,True,False,Microsoft,United States of America,USA,company,Vision/Video/3D
+microsoft/wham,L2,O1,O1,True,True,True,Microsoft,United States of America,USA,company,Multimodal Chat
+mistralai/Devstral-2-123B-Instruct-2512,L2,Not qualified,O1,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Devstral-Small-2505,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Devstral-Small-2507,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Magistral-Small-2506,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Magistral-Small-2507,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Magistral-Small-2509,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Ministral-3-14B-Reasoning-2512,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Ministral-3-3B-Reasoning-2512,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Mistral-7B-Instruct-v0.1,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Mistral-7B-Instruct-v0.2,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Mistral-7B-Instruct-v0.3,L1,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Mistral-7B-v0.1,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Mistral-Large-3-675B-Instruct-2512,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Mistral-Small-3.1-24B-Instruct-2503,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Mistral-Small-3.2-24B-Instruct-2506,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Mixtral-8x7B-Instruct-v0.1,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Text/NLP
+mistralai/Voxtral-Mini-3B-2507,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Multimodal Chat
+mistralai/Voxtral-Mini-4B-Realtime-2602,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Speech/Audio
+mistralai/Voxtral-Small-24B-2507,L2,Not qualified,O3,True,True,False,Mistral AI,France,Europe,company,Multimodal Chat
+moondream/moondream3-preview,L2,Not qualified,O1,True,True,False,moondream,United States of America,USA,company,Multimodal Chat
+moonshotai/Kimi-Audio-7B,L2,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Speech/Audio
+moonshotai/Kimi-Audio-7B-Instruct,L4,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Speech/Audio
+moonshotai/Kimi-K2-Base,L2,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Text/NLP
+moonshotai/Kimi-K2-Instruct,L2,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Text/NLP
+moonshotai/Kimi-K2-Instruct-0905,L2,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Text/NLP
+moonshotai/Kimi-K2-Thinking,L2,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Text/NLP
+moonshotai/Kimi-K2.5,L2,Not qualified,O1,True,True,False,Moonshot AI,China,China,company,Multimodal Chat
+moonshotai/Kimi-Linear-48B-A3B-Base,L2,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Text/NLP
+moonshotai/Kimi-Linear-48B-A3B-Instruct,L2,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Text/NLP
+moonshotai/Kimi-VL-A3B-Instruct,L2,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Multimodal Chat
+moonshotai/Kimi-VL-A3B-Thinking,L2,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Multimodal Chat
+moonshotai/Kimi-VL-A3B-Thinking-2506,L2,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Multimodal Chat
+moonshotai/Moonlight-16B-A3B-Instruct,L4,Not qualified,O3,True,True,False,Moonshot AI,China,China,company,Text/NLP
+mrfakename/OpenF5-TTS-Base,L2,Not qualified,O3,True,True,False,mrfakename,Unknown,Unknown,user,Speech/Audio
+nari-labs/Dia-1.6B,L2,Not qualified,O3,True,True,False,Nari Labs,South Korea,Other Asia,community,Speech/Audio
+nari-labs/Dia2-2B,L2,Not qualified,O3,True,True,False,Nari Labs,South Korea,Other Asia,community,Speech/Audio
+nasa-ibm-ai4science/Surya-1.0,L0,Not qualified,O3,True,True,False,NASA-IBM AI4Science,United States of America,USA,community,Embedding/Retrieval
+naver-hyperclovax/HyperCLOVAX-SEED-Omni-8B,L2,Not qualified,O1,True,True,False,HyperCLOVA X,South Korea,Other Asia,company,Text/NLP
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B,L2,Not qualified,O1,True,True,False,HyperCLOVA X,South Korea,Other Asia,company,Text/NLP
+naver-hyperclovax/HyperCLOVAX-SEED-Think-14B,L2,Not qualified,O1,True,True,False,HyperCLOVA X,South Korea,Other Asia,company,Text/NLP
+naver-hyperclovax/HyperCLOVAX-SEED-Think-32B,L2,Not qualified,O1,True,True,False,HyperCLOVA X,South Korea,Other Asia,company,Text/NLP
+naver-hyperclovax/HyperCLOVAX-SEED-Vision-Instruct-3B,L2,Not qualified,O1,True,True,False,HyperCLOVA X,South Korea,Other Asia,company,Text/NLP
+neuphonic/neucodec,L2,O3,O3,True,True,True,Neuphonic,United Kingdom,Europe,company,Speech/Audio
+nineninesix/kani-tts-2-en,L2,O1,O1,True,True,True,nineninesix,Kyrgyzstan,Other Asia,company,Speech/Audio
+nineninesix/kani-tts-370m,L2,Not qualified,O1,True,True,False,nineninesix,Kyrgyzstan,Other Asia,company,Speech/Audio
+nitrosocke/Ghibli-Diffusion,L1,Not qualified,O1,True,True,False,nitrosocke,Unknown,Unknown,user,Vision/Video/3D
+nomic-ai/nomic-embed-text-v2-moe,L2,Not qualified,O3,True,True,False,Nomic AI,United States of America,USA,company,Embedding/Retrieval
+numind/NuMarkdown-8B-Thinking,L1,Not qualified,O3,True,False,False,NuMind,United States of America,USA,company,Multimodal Chat
+nvidia/AceReason-Nemotron-14B,L2,O3,O3,True,True,True,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/Alpamayo-R1-10B,L2,O1,O1,True,True,True,NVIDIA,United States of America,USA,company,Other
+nvidia/C-RADIOv4-H,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Embedding/Retrieval
+nvidia/Llama-3.1-Nemotron-8B-UltraLong-4M-Instruct,L2,O1,O1,True,True,True,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/Llama-3.1-Nemotron-Nano-4B-v1.1,L2,O3,O3,True,True,True,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/Llama-3.1-Nemotron-Nano-8B-v1,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/Llama-3.1-Nemotron-Nano-VL-8B-V1,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Multimodal Chat
+nvidia/Llama-3_1-Nemotron-Ultra-253B-v1,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/Llama-3_3-Nemotron-Super-49B-v1,L2,O3,O3,True,True,True,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/Llama-3_3-Nemotron-Super-49B-v1_5,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16,L2,O3,O3,True,True,True,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/NVIDIA-Nemotron-Nano-12B-v2,L2,O3,O3,True,True,True,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Multimodal Chat
+nvidia/NVIDIA-Nemotron-Nano-9B-v2,L2,O3,O3,True,True,True,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese,L2,O3,O3,True,True,True,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/NVIDIA-Nemotron-Parse-v1.1,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Multimodal Chat
+nvidia/Nemotron-Elastic-12B,L2,O1,O1,True,True,True,NVIDIA,United States of America,USA,company,Text/NLP
+nvidia/NitroGen,L0,O1,O1,True,True,True,NVIDIA,United States of America,USA,company,Other
+nvidia/audio-flamingo-3,L2,O1,O1,True,True,True,NVIDIA,United States of America,USA,company,Multimodal Chat
+nvidia/audio-flamingo-3-chat,L2,O1,O1,True,True,True,NVIDIA,United States of America,USA,company,Multimodal Chat
+nvidia/audio-flamingo-3-hf,L2,O1,O1,True,True,True,NVIDIA,United States of America,USA,company,Multimodal Chat
+nvidia/canary-1b,L2,O1,O1,True,True,True,NVIDIA,United States of America,USA,company,Speech/Audio
+nvidia/canary-1b-v2,L2,O3,O3,True,True,True,NVIDIA,United States of America,USA,company,Speech/Audio
+nvidia/diar_streaming_sortformer_4spk-v2,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Speech/Audio
+nvidia/llama-embed-nemotron-8b,L2,Not qualified,O1,True,True,False,NVIDIA,United States of America,USA,company,Embedding/Retrieval
+nvidia/magpie_tts_multilingual_357m,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Speech/Audio
+nvidia/multitalker-parakeet-streaming-0.6b-v1,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Speech/Audio
+nvidia/music-flamingo-hf,L2,O1,O1,True,True,True,NVIDIA,United States of America,USA,company,Multimodal Chat
+nvidia/nemotron-speech-streaming-en-0.6b,L2,O3,O3,True,True,True,NVIDIA,United States of America,USA,company,Speech/Audio
+nvidia/omni-embed-nemotron-3b,L2,O1,O1,True,True,True,NVIDIA,United States of America,USA,company,Embedding/Retrieval
+nvidia/omnivinci,L2,Not qualified,O3,True,False,False,NVIDIA,United States of America,USA,company,Embedding/Retrieval
+nvidia/parakeet-ctc-0.6b-Vietnamese,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Speech/Audio
+nvidia/parakeet-tdt-0.6b-v2,L2,O3,O3,True,True,True,NVIDIA,United States of America,USA,company,Speech/Audio
+nvidia/parakeet-tdt-0.6b-v3,L2,O3,O3,True,True,True,NVIDIA,United States of America,USA,company,Speech/Audio
+nvidia/parakeet_realtime_eou_120m-v1,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Speech/Audio
+nvidia/prompt-task-and-complexity-classifier,L2,Not qualified,O3,True,True,False,NVIDIA,United States of America,USA,company,Text/NLP
+openai/circuit-sparsity,L1,Not qualified,O3,True,True,False,OpenAI,United States of America,USA,company,Text/NLP
+openai/clip-vit-large-patch14,L2,Not qualified,Not qualified,False,False,False,OpenAI,United States of America,USA,company,Vision/Video/3D
+openai/gpt-oss-120b,L4,Not qualified,O3,True,True,False,OpenAI,United States of America,USA,company,Text/NLP
+openai/gpt-oss-20b,L4,Not qualified,O3,True,True,False,OpenAI,United States of America,USA,company,Text/NLP
+openai/gpt-oss-safeguard-20b,L2,Not qualified,O3,True,True,False,OpenAI,United States of America,USA,company,Text/NLP
+openai/whisper-large-v3,L2,Not qualified,O3,True,False,False,OpenAI,United States of America,USA,company,Speech/Audio
+openai/whisper-large-v3-turbo,L2,Not qualified,O3,True,False,False,OpenAI,United States of America,USA,company,Speech/Audio
+openbmb/AgentCPM-GUI,L4,O3,O3,True,True,True,OpenBMB,China,China,community,Multimodal Chat
+openbmb/AgentCPM-Report,L2,Not qualified,O3,True,True,False,OpenBMB,China,China,community,Text/NLP
+openbmb/MiniCPM-SALA,L4,Not qualified,O3,True,True,False,OpenBMB,China,China,community,Text/NLP
+openbmb/MiniCPM-V-4,L4,O3,O3,True,True,True,OpenBMB,China,China,community,Multimodal Chat
+openbmb/MiniCPM-V-4_5,L4,O3,O3,True,True,True,OpenBMB,China,China,community,Multimodal Chat
+openbmb/MiniCPM-o-2_6,L4,O3,O3,True,True,True,OpenBMB,China,China,community,Multimodal Chat
+openbmb/MiniCPM-o-4_5,L4,Not qualified,O3,True,True,False,OpenBMB,China,China,community,Multimodal Chat
+openbmb/MiniCPM4.1-8B,L4,Not qualified,O3,True,True,False,OpenBMB,China,China,community,Text/NLP
+openbmb/VoxCPM-0.5B,L4,Not qualified,O3,True,True,False,OpenBMB,China,China,community,Speech/Audio
+openbmb/VoxCPM1.5,L4,Not qualified,O3,True,True,False,OpenBMB,China,China,community,Speech/Audio
+opendatalab/MinerU2.5-2509-1.2B,L2,Not qualified,O2,True,True,False,OpenDataLab,China,China,non-profit,Multimodal Chat
+opendatalab/PDF-Extract-Kit-1.0,L2,Not qualified,O2,True,True,False,OpenDataLab,China,China,non-profit,Multimodal Chat
+ostris/Flex.2-preview,L2,Not qualified,O3,True,True,False,ostris,Unknown,Unknown,user,Vision/Video/3D
+perplexity-ai/pplx-embed-context-v1-0.6b,L2,Not qualified,O3,True,True,False,Perplexity,United States of America,USA,company,Embedding/Retrieval
+perplexity-ai/pplx-embed-v1-0.6b,L2,Not qualified,O3,True,True,False,Perplexity,United States of America,USA,company,Embedding/Retrieval
+perplexity-ai/pplx-embed-v1-4b,L2,Not qualified,O3,True,True,False,Perplexity,United States of America,USA,company,Embedding/Retrieval
+pipecat-ai/smart-turn-v3,L2,Not qualified,O3,True,True,False,Pipecat,United States of America,USA,community,Speech/Audio
+pixai-labs/pixai-tagger-v0.9,L2,Not qualified,O3,True,True,False,PixAI Labs,Singapore,Other Asia,company,Vision/Video/3D
+pyannote/segmentation-3.0,L2,Not qualified,O3,True,True,False,pyannote,France,Europe,company,Speech/Audio
+pyannote/speaker-diarization-3.1,L0,Not qualified,O3,True,True,False,pyannote,France,Europe,company,Speech/Audio
+pyannote/speaker-diarization-community-1,L2,Not qualified,O3,True,False,False,pyannote,France,Europe,company,Speech/Audio
+radicalnumerics/RND1-Base-0910,L2,Not qualified,O3,True,True,False,Radical Numerics,United Kingdom,Europe,company,Text/NLP
+rednote-hilab/dots.llm1.base,L2,Not qualified,O3,True,True,False,rednote-hilab,China,China,company,Text/NLP
+rednote-hilab/dots.llm1.inst,L2,Not qualified,O3,True,True,False,rednote-hilab,China,China,company,Text/NLP
+rednote-hilab/dots.ocr,L5,Not qualified,O3,True,True,False,rednote-hilab,China,China,company,Multimodal Chat
+rednote-hilab/dots.vlm1.inst,L2,Not qualified,O3,True,True,False,rednote-hilab,China,China,company,Multimodal Chat
+rl-research/DR-Tulu-8B,L4,O3,O3,True,True,True,rl-research,United States of America,USA,non-profit,Text/NLP
+robbyant/lingbot-world-base-cam,L2,Not qualified,O3,True,True,False,robbyant,China,China,company,Vision/Video/3D
+rstar2-reproduce/rStar2-Agent-14B,L2,Not qualified,O3,True,True,False,rstar2-reproduce,Unknown,Unknown,user,Text/NLP
+sand-ai/MAGI-1,L2,Not qualified,O3,True,True,False,Sand AI,China,China,company,Vision/Video/3D
+sarvamai/sarvam-1,L2,Not qualified,O1,True,True,False,Sarvam AI,India,Other Asia,company,Text/NLP
+sarvamai/sarvam-105b,L2,Not qualified,O3,True,False,False,Sarvam AI,India,Other Asia,company,Text/NLP
+sarvamai/sarvam-30b,L2,Not qualified,O3,True,False,False,Sarvam AI,India,Other Asia,company,Text/NLP
+sentence-transformers/all-MiniLM-L6-v2,L2,Not qualified,O3,True,False,True,Sentence Transformers,United States of America,USA,university,Embedding/Retrieval
+sesame/csm-1b,L1,Not qualified,O3,True,True,False,Sesame,United States of America,USA,company,Speech/Audio
+shallowdream204/BitDance-14B-64x,L4,Not qualified,O3,True,True,False,shallowdream204,Unknown,Unknown,user,Vision/Video/3D
+shiyi0408/FlexiAct,L4,Not qualified,O3,True,True,False,shiyi0408,Unknown,Unknown,user,Vision/Video/3D
+skt/A.X-K1,L2,Not qualified,O3,True,True,False,SK Telecom,South Korea,Other Asia,company,Text/NLP
+stabilityai/stable-audio-open-1.0,L2,Not qualified,O1,True,True,False,Stability AI,United Kingdom,Europe,company,Speech/Audio
+stabilityai/stable-audio-open-small,L2,Not qualified,O1,True,True,False,Stability AI,United Kingdom,Europe,company,Speech/Audio
+stabilityai/stable-diffusion-3.5-large,L2,Not qualified,O1,True,True,False,Stability AI,United Kingdom,Europe,company,Vision/Video/3D
+stabilityai/stable-diffusion-3.5-medium,L2,Not qualified,O1,True,True,False,Stability AI,United Kingdom,Europe,company,Vision/Video/3D
+stabilityai/stable-diffusion-xl-base-1.0,L2,Not qualified,O1,True,True,False,Stability AI,United Kingdom,Europe,company,Vision/Video/3D
+stabilityai/stable-video-diffusion-img2vid-xt,L2,Not qualified,O1,True,True,False,Stability AI,United Kingdom,Europe,company,Vision/Video/3D
+starvector/starvector-8b-im2svg,L3,Not qualified,O3,True,True,False,starvector,China,China,community,Text/NLP
+stdstu123/Yume-5B-720P,L1,Not qualified,O3,True,True,False,stdstu123,Unknown,Unknown,user,Vision/Video/3D
+stepfun-ai/NextStep-1-Large,L4,Not qualified,O3,True,True,False,StepFun,China,China,company,Vision/Video/3D
+stepfun-ai/NextStep-1-Large-Edit,L4,Not qualified,O3,True,True,False,StepFun,China,China,company,Vision/Video/3D
+stepfun-ai/Step-3.5-Flash,L2,Not qualified,O3,True,True,False,StepFun,China,China,company,Text/NLP
+stepfun-ai/Step-Audio-2-mini,L2,Not qualified,O3,True,True,False,StepFun,China,China,company,Multimodal Chat
+stepfun-ai/Step-Audio-Chat,L2,Not qualified,O3,True,True,False,StepFun,China,China,company,Multimodal Chat
+stepfun-ai/Step-Audio-EditX,L3,Not qualified,O1,True,False,False,StepFun,China,China,company,Speech/Audio
+stepfun-ai/Step-Audio-R1,L2,Not qualified,O3,True,True,False,StepFun,China,China,company,Multimodal Chat
+stepfun-ai/Step-Audio-R1.1,L2,Not qualified,O3,True,True,False,StepFun,China,China,company,Multimodal Chat
+stepfun-ai/Step1X-3D,L0,Not qualified,O3,True,True,False,StepFun,China,China,company,Vision/Video/3D
+stepfun-ai/Step1X-Edit,L3,Not qualified,O3,True,True,False,StepFun,China,China,company,Vision/Video/3D
+stepfun-ai/Step1X-Edit-v1p2,L2,Not qualified,O3,True,True,False,StepFun,China,China,company,Vision/Video/3D
+stepfun-ai/Step3-VL-10B,L2,Not qualified,O3,True,True,False,StepFun,China,China,company,Multimodal Chat
+stepfun-ai/Step3-VL-10B-Base,L2,Not qualified,O3,True,True,False,StepFun,China,China,company,Multimodal Chat
+stepfun-ai/step3,L2,Not qualified,O3,True,True,False,StepFun,China,China,company,Multimodal Chat
+stepfun-ai/stepvideo-t2v,L2,Not qualified,O3,True,True,False,StepFun,China,China,company,Vision/Video/3D
+suno/bark,L2,Not qualified,O3,True,True,False,Suno,United States of America,USA,company,Speech/Audio
+swiss-ai/Apertus-70B-2509,L2,Not qualified,O3,True,True,False,Swiss AI Initiative,Switzerland,Europe,university,Text/NLP
+swiss-ai/Apertus-70B-Instruct-2509,L2,Not qualified,O3,True,True,False,Swiss AI Initiative,Switzerland,Europe,university,Text/NLP
+swiss-ai/Apertus-8B-2509,L2,Not qualified,O3,True,True,False,Swiss AI Initiative,Switzerland,Europe,university,Text/NLP
+swiss-ai/Apertus-8B-Instruct-2509,L2,Not qualified,O3,True,True,False,Swiss AI Initiative,Switzerland,Europe,university,Text/NLP
+t-tech/T-one,L4,Not qualified,O3,True,True,False,T-Tech,Japan,Other Asia,company,Speech/Audio
+tahoebio/Tahoe-x1,L4,O3,O3,True,True,True,Tahoe Bio,United States of America,USA,company,Text/NLP
+tanaos/tanaos-text-anonymizer-v1,L1,O3,O3,True,True,True,Tanaos,France,Europe,company,Text/NLP
+tarteel-ai/whisper-base-ar-quran,L1,Not qualified,O3,True,True,False,Tarteel AI,United States of America,USA,company,Speech/Audio
+tencent/HY-MT1.5-1.8B,L1,Not qualified,O1,True,False,False,Tencent,China,China,company,Text/NLP
+tencent/HY-MT1.5-7B,L1,Not qualified,O1,True,False,False,Tencent,China,China,company,Text/NLP
+tencent/HY-Motion-1.0,L0,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/HY-WorldPlay,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/Hunyuan-1.8B-Instruct,L4,Not qualified,O1,True,True,False,Tencent,China,China,company,Text/NLP
+tencent/Hunyuan-7B-Instruct,L4,Not qualified,O1,True,True,False,Tencent,China,China,company,Text/NLP
+tencent/Hunyuan-GameCraft-1.0,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/Hunyuan-MT-7B,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Text/NLP
+tencent/Hunyuan3D-2,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/Hunyuan3D-2.1,L3,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/Hunyuan3D-Omni,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/Hunyuan3D-Part,L0,O1,O1,True,True,True,Tencent,China,China,company,Vision/Video/3D
+tencent/HunyuanCustom,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/HunyuanImage-2.1,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/HunyuanImage-3.0,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/HunyuanImage-3.0-Instruct,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/HunyuanOCR,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Multimodal Chat
+tencent/HunyuanVideo,L4,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/HunyuanVideo-1.5,L4,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/HunyuanVideo-Avatar,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/HunyuanVideo-Foley,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Speech/Audio
+tencent/HunyuanWorld-Mirror,L3,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/HunyuanWorld-Voyager,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/POINTS-Reader,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Multimodal Chat
+tencent/SRPO,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Vision/Video/3D
+tencent/WeDLM-8B-Instruct,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Text/NLP
+tencent/Youtu-Embedding,L4,Not qualified,O1,True,True,False,Tencent,China,China,company,Embedding/Retrieval
+tencent/Youtu-LLM-2B,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Text/NLP
+tencent/Youtu-VL-4B-Instruct,L2,Not qualified,O1,True,True,False,Tencent,China,China,company,Multimodal Chat
+tensorart/stable-diffusion-3.5-large-TurboX,L1,Not qualified,O1,True,True,False,TensorArt Studios,China,China,company,Vision/Video/3D
+thilina/mt5-sinhalese-english,L0,Not qualified,O3,True,False,False,thilina,Unknown,Unknown,user,Text/NLP
+tiiuae/Falcon-H1R-7B,L2,Not qualified,O1,True,False,False,Technology Innovation Institute,United Arab Emirates,Other Asia,company,Text/NLP
+trillionlabs/gWorld-32B,L2,Not qualified,O3,True,False,False,Trillion Labs,South Korea,Other Asia,company,Multimodal Chat
+trillionlabs/gWorld-8B,L2,Not qualified,O3,True,False,False,Trillion Labs,South Korea,Other Asia,company,Multimodal Chat
+upstage/Solar-Open-100B,L2,Not qualified,O1,True,True,False,upstage,South Korea,Other Asia,company,Text/NLP
+utter-project/EuroLLM-1.7B,L2,Not qualified,O3,True,True,False,UTTER - Unified Transcription and Translation for Extended Reality,Unknown,Europe,community,Text/NLP
+utter-project/EuroLLM-9B,L2,Not qualified,O3,True,True,False,UTTER - Unified Transcription and Translation for Extended Reality,Unknown,Europe,community,Text/NLP
+vidore/colqwen-omni-v0.1,L2,Not qualified,O3,True,True,False,Vidore,France,Europe,company,Embedding/Retrieval
+vidore/colqwen2-v1.0-hf,L2,O3,O3,True,True,True,Vidore,France,Europe,company,Embedding/Retrieval
+vikhyatk/moondream2,L2,Not qualified,O3,True,False,False,vikhyatk,Unknown,Unknown,user,Multimodal Chat
+vita-video-gen/svi-model,L2,Not qualified,O3,True,True,False,vita-video-gen,Unknown,Unknown,user,Vision/Video/3D
+vngrs-ai/Kumru-2B,L1,O3,O3,True,True,True,VNGRS,Turkey,Other Asia,company,Text/NLP
+voyageai/voyage-4-nano,L2,Not qualified,O3,True,True,False,Voyage AI,United States of America,USA,company,Embedding/Retrieval
+wushuang98/Direct3D-S2,L1,Not qualified,O3,True,False,False,wushuang98,Unknown,Unknown,user,Vision/Video/3D
+xai-org/grok-1,L0,Not qualified,O3,True,True,False,xAI,United States of America,USA,company,Text/NLP
+xai-org/grok-2,L1,Not qualified,O1,True,True,False,xAI,United States of America,USA,company,Text/NLP
+xgen-universe/Capybara,L2,Not qualified,O3,True,True,False,xgen,Unknown,Unknown,community,Multimodal Chat
+xiabs/DreamOmni2,L2,Not qualified,O3,True,True,False,xiabs,Unknown,Unknown,user,Vision/Video/3D
+xinsir/controlnet-union-sdxl-1.0,L2,Not qualified,O3,True,True,False,xinsir,Unknown,Unknown,user,Vision/Video/3D
+yandex/YandexGPT-5-Lite-8B-pretrain,L2,Not qualified,O1,True,True,False,Yandex,Russia,Europe,company,Text/NLP
+yonigozlan/EdgeTAM-hf,L2,Not qualified,O3,True,False,False,yonigozlan,Unknown,Unknown,user,Vision/Video/3D
+ytu-ce-cosmos/Turkish-Gemma-9b-T1,L2,Not qualified,O1,True,False,False,Yildiz Technical University Computer Engineering Department Cosmos Research Group,Turkey,Other Asia,university,Text/NLP
+zai-org/AutoGLM-Phone-9B,L1,Not qualified,O3,True,True,False,Z.ai,China,China,company,Multimodal Chat
+zai-org/AutoGLM-Phone-9B-Multilingual,L1,Not qualified,O3,True,True,False,Z.ai,China,China,company,Multimodal Chat
+zai-org/GLM-4.5,L2,Not qualified,O3,True,True,False,Z.ai,China,China,company,Text/NLP
+zai-org/GLM-4.5-Air,L2,Not qualified,O3,True,True,False,Z.ai,China,China,company,Text/NLP
+zai-org/GLM-4.5V,L2,Not qualified,O3,True,True,False,Z.ai,China,China,company,Multimodal Chat
+zai-org/GLM-4.6,L2,Not qualified,O3,True,True,False,Z.ai,China,China,company,Text/NLP
+zai-org/GLM-4.6V,L2,Not qualified,O3,True,True,False,Z.ai,China,China,company,Multimodal Chat
+zai-org/GLM-4.6V-Flash,L2,Not qualified,O3,True,True,False,Z.ai,China,China,company,Multimodal Chat
+zai-org/GLM-4.7,L2,Not qualified,O3,True,True,False,Z.ai,China,China,company,Text/NLP
+zai-org/GLM-4.7-Flash,L2,Not qualified,O3,True,True,False,Z.ai,China,China,company,Text/NLP
+zai-org/GLM-5,L4,O3,O3,True,True,True,Z.ai,China,China,company,Text/NLP
+zai-org/GLM-ASR-Nano-2512,L1,Not qualified,O3,True,True,False,Z.ai,China,China,company,Speech/Audio
+zai-org/GLM-Image,L3,Not qualified,O3,True,True,False,Z.ai,China,China,company,Vision/Video/3D
+zai-org/GLM-OCR,L2,Not qualified,O3,True,True,False,Z.ai,China,China,company,Multimodal Chat
+zai-org/GLM-TTS,L2,Not qualified,O3,True,True,False,Z.ai,China,China,company,Speech/Audio
+zai-org/SCAIL-Preview,L2,Not qualified,O3,True,True,False,Z.ai,China,China,company,Vision/Video/3D
+zju-community/matchanything_eloftr,L1,Not qualified,O3,True,True,False,Zhejiang University,China,China,community,Embedding/Retrieval

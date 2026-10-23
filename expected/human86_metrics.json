@@ -1,0 +1,106 @@
+{
+  "aggregate": {
+    "all_recorded_levels": {
+      "accuracy": 0.46511627906976744,
+      "matches": 40,
+      "total": 86
+    },
+    "joint": {
+      "accuracy": 0.686046511627907,
+      "kappa": 0.30102347983142663,
+      "macro_f1": 0.25340320222209983,
+      "macro_precision": 0.3172598545732874,
+      "macro_recall": 0.24316239316239316,
+      "matches": 59,
+      "total": 86
+    },
+    "joint_partial": {
+      "accuracy": 0.5581395348837209,
+      "kappa": 0.3930163447251114,
+      "macro_f1": 0.26085503614107736,
+      "macro_precision": 0.3389376218323587,
+      "macro_recall": 0.26921470342522974,
+      "matches": 48,
+      "total": 86
+    },
+    "licensing": {
+      "accuracy": 0.8953488372093024,
+      "kappa": 0.4829659318637273,
+      "macro_f1": 0.6708683473389355,
+      "macro_precision": 0.6808688387635756,
+      "macro_recall": 0.6783549783549784,
+      "matches": 77,
+      "total": 86
+    },
+    "resource": {
+      "accuracy": 0.7325581395348837,
+      "kappa": 0.2958348166607334,
+      "macro_f1": 0.446043771043771,
+      "macro_precision": 0.602359208523592,
+      "macro_recall": 0.4217443249701314,
+      "matches": 63,
+      "total": 86
+    },
+    "resource_partial": {
+      "accuracy": 0.5930232558139535,
+      "kappa": 0.4168926772568773,
+      "macro_f1": 0.42672050172050174,
+      "macro_precision": 0.47333864965443917,
+      "macro_recall": 0.4830634278002699,
+      "matches": 51,
+      "total": 86
+    }
+  },
+  "cases": 86,
+  "constant_baseline": {
+    "field": {
+      "accuracy": 0.6316067653276956,
+      "matches": 1195,
+      "total": 1892
+    },
+    "licensing": {
+      "accuracy": 0.8953488372093024,
+      "matches": 77,
+      "total": 86
+    },
+    "qualification_f1": 0.0,
+    "resource": {
+      "accuracy": 0.7209302325581395,
+      "matches": 62,
+      "total": 86
+    }
+  },
+  "field": {
+    "accuracy": 0.8652219873150105,
+    "matches": 1637,
+    "total": 1892
+  },
+  "fields": 22,
+  "inter_rater": {
+    "accuracy": 0.9075052854122622,
+    "kappa": 0.8698800900425061,
+    "macro_f1": 0.9104143465304075,
+    "macro_precision": 0.9127629385089213,
+    "macro_recall": 0.909184841515802,
+    "matches": 1717,
+    "total": 1892
+  },
+  "missing_predictions": 0,
+  "overall_macro": {
+    "accuracy": 0.8652219873150105,
+    "kappa": 0.8109909362150235,
+    "macro_f1": 0.8914078445119491,
+    "macro_precision": 0.9044510892300179,
+    "macro_recall": 0.8840593266612066
+  },
+  "population": 845,
+  "qualification": {
+    "f1": 0.5263157894736842,
+    "fn": 4,
+    "fp": 5,
+    "precision": 0.5,
+    "recall": 0.5555555555555556,
+    "tn": 72,
+    "tp": 5
+  }
+}

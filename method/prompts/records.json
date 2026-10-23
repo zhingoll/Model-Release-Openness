@@ -1,0 +1,26 @@
+[
+  {
+    "artifact": "message_template",
+    "file": "upgrade_decision_critic_prompting.py",
+    "role": "Positive-upgrade Verifier",
+    "sha256": "ea614df4b9b558ef35c2808445d95c79624915ae58ade42840faa13baf635902"
+  },
+  {
+    "artifact": "response_schema",
+    "file": "upgrade_decision_critic_schema.py",
+    "role": "Positive-upgrade Verifier",
+    "sha256": "90a8a4a9cd56dac14174fd6a9db14453ea2aa0a05abb93ac83cd320b74ed5489"
+  },
+  {
+    "artifact": "message_template",
+    "file": "upgrade_decision_challenger_prompting.py",
+    "role": "Challenger",
+    "sha256": "54d1d52df37b681e30b2f7ee6722bba6941002f2ab2ad03f1d912c148c7adfdd"
+  },
+  {
+    "artifact": "response_schema",
+    "file": "upgrade_decision_challenger_schema.py",
+    "role": "Challenger",
+    "sha256": "a2e527ce950b080f150bf010bd3bb939d407de175ff8655bfc34a7f66ced6f57"
+  }
+]

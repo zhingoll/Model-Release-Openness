@@ -1,0 +1,9 @@
+model_id,field_id,baseline_status,conditional_status,original_level,conditional_level,source_url,source_revision,card_sha256
+FireRedTeam/FireRed-Image-Edit-1.0,L4_eval_data,uncertain,pass,L3,L4,https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0,0aea9d520c801c9f4b691cc92f736a7a8628e6a2,c7514eeb4ab9ed3d1b36db06ac84a6c5ccbab7d15c9044f8610a0853a0947765
+FunAudioLLM/ThinkSound,L4_eval_data,uncertain,pass,L3,L4,https://huggingface.co/FunAudioLLM/ThinkSound,7f152d1a088f91b21307337060216f0dec8d4a8f,d1da8f84a502867162f0cb56ae2ad3ff474d840091a5afcf89915d166d152a26
+facebook/sam3,L4_eval_data,uncertain,pass,L3,L5,https://huggingface.co/facebook/sam3,3c879f39826c281e95690f02c7821c4de09afae7,1ac8a322aa4a797db79cbc334acee7c0cae8635032b71c7d5b23ae63a05f4bd5
+google/medgemma-27b-it,L4_eval_data,uncertain,pass,L3,L4,https://huggingface.co/google/medgemma-27b-it,2d3e00ea38b50018bf5dd3aa1009457cd2d5a48f,70bc8ae0c856d5ad3ee86339470d10b3163295f3cb218281c22be136d9068b08
+google/medgemma-27b-text-it,L4_eval_data,uncertain,pass,L3,L4,https://huggingface.co/google/medgemma-27b-text-it,5b667cf2ddcf064085bc90952edb35a0edbfb79c,95910e783df929783d412ca935ad782c76bdea2f96b3665bf0aebe7d9753b546
+google/medgemma-4b-it,L4_eval_data,uncertain,pass,L3,L4,https://huggingface.co/google/medgemma-4b-it,290cda5eeccbee130f987c4ad74a59ae6f196408,3717e58eac9c9957c8f80e58d8f3e4854759da9f7abe76862aa100ce8b5d3aab
+google/medgemma-4b-pt,L4_eval_data,uncertain,pass,L3,L4,https://huggingface.co/google/medgemma-4b-pt,1b7b4a7e462da7ab2bc40591ec86ca449edc388a,ecf866fd00806e7f31e4febaedae0e8fffd8d191c2ef5479366d75871084d96d
+herimor/voxtream,L3_train_data,uncertain,pass,L2,L3,https://huggingface.co/herimor/voxtream,1b0e673b4a68b578d1c18f2c9c1f91f0d4e2e75d,79c61dd2f71b061e6a81dee878597487754c3fab4d117ab188809d8640bf738e

@@ -1,0 +1,174 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "licensing": {
+      "additionalProperties": false,
+      "properties": {
+        "canonical_license_package_id": {
+          "type": "string"
+        },
+        "official_review_source_url": {
+          "type": "string"
+        },
+        "scope_aware_code_license_qualified": {
+          "type": "string"
+        },
+        "scope_aware_data_license_qualified": {
+          "type": "string"
+        },
+        "scope_aware_model_level": {
+          "type": "string"
+        },
+        "scope_aware_model_license_qualified": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "canonical_license_package_id",
+        "official_review_source_url",
+        "scope_aware_model_level",
+        "scope_aware_model_license_qualified",
+        "scope_aware_code_license_qualified",
+        "scope_aware_data_license_qualified"
+      ],
+      "type": "object"
+    },
+    "licensing_profile": {
+      "enum": [
+        "O1",
+        "O2",
+        "O3",
+        "O4",
+        "Not qualified"
+      ]
+    },
+    "model_id": {
+      "type": "string"
+    },
+    "repository_revision": {
+      "pattern": "^[0-9a-f]{40}$",
+      "type": "string"
+    },
+    "resource_level": {
+      "enum": [
+        "L0",
+        "L1",
+        "L2",
+        "L3",
+        "L4",
+        "L5"
+      ]
+    },
+    "resources": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "aggregation_required": {
+            "type": "boolean"
+          },
+          "evidence": {
+            "items": {
+              "additionalProperties": false,
+              "properties": {
+                "evidence_id": {
+                  "type": "string"
+                },
+                "support_level": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "evidence_id",
+                "support_level"
+              ],
+              "type": "object"
+            },
+            "type": "array"
+          },
+          "field": {
+            "enum": [
+              "L1_weights",
+              "L1_config",
+              "L1_tokenizer",
+              "L1_infer_code",
+              "L1_infer_env",
+              "L2_principle",
+              "L2_training",
+              "L2_test_results",
+              "L3_train_code",
+              "L3_train_data",
+              "L3_train_env",
+              "L4_eval_code",
+              "L4_eval_data",
+              "L4_eval_env",
+              "L4_no_overlap",
+              "L5_data_prep",
+              "L5_data_clean",
+              "L5_raw_data",
+              "L5_reproduce"
+            ]
+          },
+          "label": {
+            "enum": [
+              "complete",
+              "partial",
+              "missing"
+            ]
+          }
+        },
+        "required": [
+          "field",
+          "label",
+          "aggregation_required",
+          "evidence"
+        ],
+        "type": "object"
+      },
+      "maxItems": 19,
+      "minItems": 19,
+      "type": "array"
+    },
+    "sources": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "evidence_id": {
+            "type": "string"
+          },
+          "excerpt_sha256": {
+            "type": "string"
+          },
+          "observed_at": {
+            "type": "string"
+          },
+          "source_revision": {
+            "type": "string"
+          },
+          "source_url": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "evidence_id",
+          "source_url",
+          "source_revision",
+          "observed_at",
+          "excerpt_sha256"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "model_id",
+    "repository_revision",
+    "resource_level",
+    "licensing_profile",
+    "resources",
+    "sources",
+    "licensing"
+  ],
+  "type": "object"
+}

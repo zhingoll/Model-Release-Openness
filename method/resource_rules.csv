@@ -1,0 +1,20 @@
+field,complete,partial,missing
+L1_weights,Downloadable model weights or equivalent target-release artifact.,"Accessible, release-bound description of specific weights without sufficient artifact detail.","No target weight artifact, or weights that are gated or inaccessible."
+L1_config,Target configuration file or explicit architecture or configuration parameters.,Narrative configuration without concrete file or full parameters.,No trustworthy config evidence.
+L1_tokenizer,"Tokenizer, processor, vocabulary, or equivalent input/output processing artifact.",Release-bound evidence suggests a processor but does not identify a concrete processing artifact.,No release-bound processing evidence.
+L1_infer_code,"Inference script, API example, pipeline code, or executable usage instructions.",High-level usage description without a concrete command or code path.,No inference entry point.
+L1_infer_env,"Runtime dependencies, framework version, container, or deployment environment evidence.",Environment implied by examples but incomplete.,No environment evidence.
+L2_principle,"Model architecture, method, objective, or design rationale bound to release.",Target-linked method or design description without sufficient concrete detail.,No target-bound method or principle evidence.
+L2_training,"Substantive, release-bound description connecting training or fine-tuning to a method, data-construction step, objective, optimization choice, or implementation condition.",Release-bound training note without sufficient process detail.,No target-bound training or implementation description.
+L2_test_results,"Benchmark, metric, task, score, or evaluation table for the release.",Release-bound result claim with incomplete metric or task detail.,"No result evidence, or results not bound to the target release."
+L3_train_code,"Target-relevant training, fine-tuning, or recipe code.",Release-linked code whose target-specific training path or required steps are incomplete.,"No target-relevant training code, or only generic or family-level code without target-release binding."
+L3_train_data,"Training dataset names, sources, composition, or construction evidence.",Release-bound data-family statement without concrete sources or composition.,No target-bound training-data evidence.
+L3_train_env,"Training framework, hardware, schedule, config, or dependency evidence.",Partial hardware/framework note only.,No training-environment evidence.
+L4_eval_code,"Evaluation script, harness, or specified evaluation command.",Release-bound evaluation-code reference or procedure without a runnable entry point.,"Only a benchmark name, or no evaluation-code evidence."
+L4_eval_data,"Evaluation dataset names, benchmark data, or dataset links.",Release-bound benchmark-family reference without precise dataset identification.,No target-bound evaluation-data evidence.
+L4_eval_env,"Evaluation dependencies, harness version, runtime, or environment setup.",Release-bound environment details with incomplete dependencies or setup.,No evaluation-environment evidence.
+L4_no_overlap,"Explicit train/eval separation, decontamination, or no-overlap evidence. This field is reported as a contamination-risk diagnostic rather than as a main L4 aggregation gate.",Discussion of contamination without explicit separation evidence.,"Benchmark coverage alone, or no relevant statement."
+L5_data_prep,"Data preprocessing evidence, including scripts, pipelines, and exact process descriptions for preparing input data.",High-level preprocessing narrative without sufficient process detail.,No data preprocessing evidence.
+L5_data_clean,"Data cleaning evidence, including filtering, deduplication, quality-control rules, and related artifacts.",High-level cleaning statement only.,No data cleaning evidence.
+L5_raw_data,"Raw data sources, released raw data, or source reconstruction path.",Release-bound dataset-family reference without a raw-source trace.,No raw-data trace.
+L5_reproduce,"End-to-end reproduction recipe tying code, data, config, and environment.",Partial recipe that omits major dependencies.,No reproduction path.

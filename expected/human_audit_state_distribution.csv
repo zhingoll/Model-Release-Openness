@@ -1,0 +1,7 @@
+audit_state,sample_count,sample_percent,strict_level_weighted_count_estimate,strict_level_weighted_percent_estimate,strict_level_weighted_percent_ci_low,strict_level_weighted_percent_ci_high
+referenced_but_unpublished_dataset,111,77.1,570.8,76.6,69.7,83.1
+no_separate_data_artifact_observed,25,17.4,131.4,17.6,11.8,23.9
+manual_review_found_license,3,2.1,17.0,2.3,0.8,4.4
+unclear_or_ambiguous,3,2.1,15.5,2.1,0.0,4.8
+released_data_artifact_without_license,1,0.7,5.2,0.7,0.0,2.1
+terms_outside_observed_sources,1,0.7,5.2,0.7,0.0,2.1

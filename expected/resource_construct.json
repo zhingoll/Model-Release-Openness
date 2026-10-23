@@ -1,0 +1,42 @@
+{
+  "complete_only": {
+    "cumulative": {
+      "L1": 814,
+      "L2": 730,
+      "L3": 119,
+      "L4": 79,
+      "L5": 7
+    },
+    "independent": {
+      "L1": 814,
+      "L2": 753,
+      "L3": 123,
+      "L4": 196,
+      "L5": 9
+    }
+  },
+  "complete_or_partial": {
+    "cumulative": {
+      "L1": 818,
+      "L2": 734,
+      "L3": 351,
+      "L4": 256,
+      "L5": 123
+    },
+    "independent": {
+      "L1": 818,
+      "L2": 753,
+      "L3": 381,
+      "L4": 372,
+      "L5": 165
+    }
+  },
+  "denominator": 845,
+  "l3_l4_complete_only_cross_stage": {
+    "both_satisfied": 81,
+    "l3_only": 42,
+    "l4_only": 115,
+    "neither_satisfied": 607
+  },
+  "l4_no_overlap_policy": "diagnostic only"
+}

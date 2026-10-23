@@ -1,0 +1,2 @@
+n,agreements,disagreements,observed_agreement,expected_agreement,cohen_kappa
+144,104,40,0.7222222222222222,0.5401234567901233,0.39597315436241626

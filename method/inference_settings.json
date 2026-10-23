@@ -1,0 +1,14 @@
+{
+  "data_processing": {
+    "model": "Qwen3.5-Flash",
+    "temperature": 0
+  },
+  "resource_and_licensing_assessment": {
+    "model": "DeepSeek-R1",
+    "temperature": 0.1
+  },
+  "review": {
+    "model": "GLM-5",
+    "temperature": 0.05
+  }
+}

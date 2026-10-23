@@ -1,0 +1,11 @@
+model_id,field_id,retained_status,sensitivity_status,human_label,baseline_level,sensitivity_level
+CypressYang/SongBloom,L1_config,pass,pass,complete,L1,L1
+Overworld/Waypoint-1-Small,L2_training,pass,uncertain,partial,L1,L1
+QuixiAI/Prisma-VL-8B,L2_training,pass,pass,complete,L1,L1
+Vikhrmodels/Borealis,L2_training,pass,uncertain,partial,L2,L1
+deepseek-ai/DeepSeek-R1-0528,L2_training,pass,uncertain,partial,L2,L1
+inclusionAI/LLaDA2.0-mini-preview,L2_training,pass,uncertain,partial,L2,L1
+inclusionAI/LLaDA2.1-flash,L2_training,pass,pass,complete,L2,L2
+inclusionAI/LLaDA2.1-mini,L2_training,pass,uncertain,partial,L2,L1
+moonshotai/Kimi-K2-Instruct,L2_training,pass,uncertain,partial,L2,L1
+perplexity-ai/pplx-embed-context-v1-0.6b,L2_training,pass,pass,complete,L2,L2

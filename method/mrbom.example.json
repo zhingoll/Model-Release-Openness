@@ -1,0 +1,794 @@
+{
+  "licensing": {
+    "canonical_license_package_id": "lcp-lt-0003",
+    "official_review_source_url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+    "scope_aware_code_license_qualified": "True",
+    "scope_aware_data_license_qualified": "True",
+    "scope_aware_model_level": "O3",
+    "scope_aware_model_license_qualified": "True"
+  },
+  "licensing_profile": "O3",
+  "model_id": "allenai/OLMo-2-0425-1B",
+  "repository_revision": "a1847dff35000b4271fa70afc5db10fd29fedbdf",
+  "resource_level": "L5",
+  "resources": [
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "direct"
+        },
+        {
+          "evidence_id": "github_1",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "paper_1",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_1",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_2",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_3",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_4",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_5",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_6",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_7",
+          "support_level": "auxiliary"
+        }
+      ],
+      "field": "L1_weights",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "direct"
+        },
+        {
+          "evidence_id": "github_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "paper_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_4",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_5",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_6",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_7",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L1_config",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "direct"
+        },
+        {
+          "evidence_id": "github_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "paper_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_4",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_5",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_6",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_7",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L1_tokenizer",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "direct"
+        },
+        {
+          "evidence_id": "github_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "paper_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_4",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_5",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_6",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_7",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L1_infer_code",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "direct"
+        },
+        {
+          "evidence_id": "github_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "paper_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_4",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_5",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_6",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_7",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L1_infer_env",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "direct"
+        },
+        {
+          "evidence_id": "github_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "paper_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_4",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_5",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_6",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_7",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L2_principle",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "direct"
+        },
+        {
+          "evidence_id": "github_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "paper_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_4",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_5",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_6",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_7",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L2_training",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "direct"
+        },
+        {
+          "evidence_id": "github_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "paper_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_4",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_5",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_6",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "web_page_7",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L2_test_results",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "direct"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "auxiliary"
+        }
+      ],
+      "field": "L3_train_code",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "direct"
+        },
+        {
+          "evidence_id": "github_1",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "paper_1",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_1",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_2",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_3",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_4",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_5",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_6",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_7",
+          "support_level": "auxiliary"
+        }
+      ],
+      "field": "L3_train_data",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L3_train_env",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "github_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L4_eval_code",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "github_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "paper_1",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_1",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_2",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_3",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_4",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_5",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_6",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "web_page_7",
+          "support_level": "auxiliary"
+        }
+      ],
+      "field": "L4_eval_data",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "github_1",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L4_eval_env",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": false,
+      "evidence": [],
+      "field": "L4_no_overlap",
+      "label": "missing"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L5_data_prep",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L5_data_clean",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        },
+        {
+          "evidence_id": "github_3",
+          "support_level": "auxiliary"
+        }
+      ],
+      "field": "L5_raw_data",
+      "label": "complete"
+    },
+    {
+      "aggregation_required": true,
+      "evidence": [
+        {
+          "evidence_id": "hf_direct",
+          "support_level": "auxiliary"
+        },
+        {
+          "evidence_id": "github_2",
+          "support_level": "strong"
+        }
+      ],
+      "field": "L5_reproduce",
+      "label": "complete"
+    }
+  ],
+  "sources": [
+    {
+      "evidence_id": "github_1",
+      "excerpt_sha256": "f1d8d67173788e35dc1959c62b653168ec978e4c0559796ba35f66a803fc62df",
+      "observed_at": "",
+      "source_revision": "",
+      "source_url": "https://github.com/allenai/OLMo-Eval"
+    },
+    {
+      "evidence_id": "github_2",
+      "excerpt_sha256": "c676582f5c7db6a181f68055773376bdabf7b618bbf56c9083e7efe9a57c17d5",
+      "observed_at": "",
+      "source_revision": "",
+      "source_url": "https://github.com/allenai/OLMo"
+    },
+    {
+      "evidence_id": "github_3",
+      "excerpt_sha256": "2a15e72be3b2d34f3a0c941500e0199049f56607f35c416bd8fd7b601e48e9bd",
+      "observed_at": "",
+      "source_revision": "",
+      "source_url": "https://github.com/allenai/open-instruct"
+    },
+    {
+      "evidence_id": "hf_direct",
+      "excerpt_sha256": "ed673da3885552ff2d1e7a71dfb1b8cc696513d3ca4a2e4ea49936e448ff8824",
+      "observed_at": "",
+      "source_revision": "a1847dff35000b4271fa70afc5db10fd29fedbdf",
+      "source_url": "https://huggingface.co/allenai/OLMo-2-0425-1B"
+    },
+    {
+      "evidence_id": "paper_1",
+      "excerpt_sha256": "97b166b8b33f04bd234dd6a1c5a8058b3b29bee797c06bab18e4b8b4203ab401",
+      "observed_at": "",
+      "source_revision": "",
+      "source_url": "https://arxiv.org/abs/2501.00656"
+    },
+    {
+      "evidence_id": "web_page_1",
+      "excerpt_sha256": "58ccbaa0dedf95475177ce2326804740f9cdd1f08e8af5cb262c4ad0ced36253",
+      "observed_at": "",
+      "source_revision": "",
+      "source_url": "https://allenai.org/olmo"
+    },
+    {
+      "evidence_id": "web_page_2",
+      "excerpt_sha256": "51a5effbecdb1ca588cb67c3ca8a2e013eb2c600976407e7d47f469ccf5f5071",
+      "observed_at": "",
+      "source_revision": "",
+      "source_url": "https://docs.astral.sh/uv/"
+    },
+    {
+      "evidence_id": "web_page_3",
+      "excerpt_sha256": "bb8dac12d1bdc3f0816b4e4c4ce56b80458df268b705ed56ef709763568288e6",
+      "observed_at": "",
+      "source_revision": "",
+      "source_url": "https://astral.sh/uv/install.sh"
+    },
+    {
+      "evidence_id": "web_page_4",
+      "excerpt_sha256": "adec304e08e369954973e69711ad03eae2d6ea0d7ea68da683b1243e4727f5ad",
+      "observed_at": "",
+      "source_revision": "",
+      "source_url": "https://pytorch.org"
+    },
+    {
+      "evidence_id": "web_page_5",
+      "excerpt_sha256": "879f4cef3ce46e8bfa4c3f2962747ee4761da3c4fb83017a50707302f9a32155",
+      "observed_at": "",
+      "source_revision": "",
+      "source_url": "https://api.wandb.ai/links/ai2-llm/izdtrtu0"
+    },
+    {
+      "evidence_id": "web_page_6",
+      "excerpt_sha256": "b43d4e79be5819748ace2ddffc97ea2b3e0466644eea77821ee792d110e8ce5e",
+      "observed_at": "",
+      "source_revision": "",
+      "source_url": "https://wandb.ai/ai2-llm/OLMo-2-1124-7B/reports/OLMo-2-7B-Nov-2024--VmlldzoxMDUzMzE1OA"
+    },
+    {
+      "evidence_id": "web_page_7",
+      "excerpt_sha256": "e6bb0b39ba812f0954c8b1480e0df620c5ab54e9d4506c62534570bc7a943763",
+      "observed_at": "",
+      "source_revision": "",
+      "source_url": "https://wandb.ai/ai2-llm/OLMo-2-1124-13B/reports/OLMo-2-13B-Nov-2024--VmlldzoxMDUzMjQxNg"
+    }
+  ]
+}
